@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import Gallery from '@/components/sections/Gallery';
 
 export const metadata: Metadata = {
-  title: 'Photo Gallery | Luxury Delhi Spa | The Sanctuary',
+  title: 'Photo Gallery | Luxury Delhi Spa',
   description:
     'Step inside our premium wellness enclaves. View photos of our private treatment suites, massage therapy settings, and Ayurvedic resources in Delhi NCR.',
   alternates: {

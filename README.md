@@ -1,4 +1,4 @@
-# The Sanctuary — Luxury Delhi Spa
+# Luxury Delhi Spa
 
 A premium, hyper-local SEO optimized web application built using **Next.js 16 (App Router)** and a bespoke **forest green & champagne gold** design system. The platform is architected to rank at the top of local search queries across Delhi-NCR commercial districts.
 

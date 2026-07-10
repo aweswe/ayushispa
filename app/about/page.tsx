@@ -2,9 +2,9 @@ import type { Metadata } from 'next';
 import About from '@/components/sections/About';
 
 export const metadata: Metadata = {
-  title: 'About Our Luxury Spa in Delhi | The Sanctuary',
+  title: 'About Our Luxury Spa in Delhi | Luxury Delhi Spa',
   description:
-    'Discover The Sanctuary, the best luxury spa in Delhi NCR. Learn about our wellness philosophy, certified therapist training, and our heritage of Ayurvedic treatments in Aerocity, Lajpat Nagar, and Karol Bagh.',
+    'Discover Luxury Delhi Spa, the best luxury spa in Delhi NCR. Learn about our wellness philosophy, certified therapist training, and our heritage of Ayurvedic treatments in Aerocity, Lajpat Nagar, and Karol Bagh.',
   alternates: {
     canonical: '/about',
   },
@@ -35,7 +35,7 @@ export default function AboutPage() {
               <span className="section-eyebrow">Therapeutic Lineage</span>
               <h2 className="section-title">The Purity of Ayurvedic Care</h2>
               <p className="lineage-body-text">
-                At The Sanctuary, Ayurveda is not merely a service category; it is a dedicated discipline. Our formulations are mixed fresh daily in copper vessels using roots, flowers, and cold-pressed sesame oil sourced directly from sustainable farms in Kerala. 
+                At Luxury Delhi Spa, Ayurveda is not merely a service category; it is a dedicated discipline. Our formulations are mixed fresh daily in copper vessels using roots, flowers, and cold-pressed sesame oil sourced directly from sustainable farms in Kerala. 
               </p>
               <p className="lineage-body-text">
                 Every therapist in our Delhi suites has completed rigorous training under master practitioners, ensuring that the ancient rhythms of Abhyanga and Shirodhara are preserved and performed with clinical precision.

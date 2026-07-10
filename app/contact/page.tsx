@@ -2,9 +2,9 @@ import type { Metadata } from 'next';
 import BookingCTA from '@/components/sections/BookingCTA';
 
 export const metadata: Metadata = {
-  title: 'Book Spa Appointment Delhi | Contact The Sanctuary',
+  title: 'Book Spa Appointment Delhi | Contact Luxury Delhi Spa',
   description:
-    'Reserve your private treatment suite at The Sanctuary. Contact us for couples massage deals, bridal packages, and custom wellness bookings in Delhi.',
+    'Reserve your private treatment suite at Luxury Delhi Spa. Contact us for couples massage deals, bridal packages, and custom wellness bookings in Delhi.',
   alternates: {
     canonical: '/contact',
   },

@@ -2,9 +2,9 @@ import type { Metadata } from 'next';
 import Testimonials from '@/components/sections/Testimonials';
 
 export const metadata: Metadata = {
-  title: 'Guest Reviews & Testimonials | Luxury Delhi Spa | The Sanctuary',
+  title: 'Guest Reviews & Testimonials | Luxury Delhi Spa',
   description:
-    'Read real reviews from our guests in Delhi NCR. Discover stories of deep relaxation, couples massage retreats, and Ayurvedic recovery at The Sanctuary.',
+    'Read real reviews from our guests in Delhi NCR. Discover stories of deep relaxation, couples massage retreats, and Ayurvedic recovery at Luxury Delhi Spa.',
   alternates: {
     canonical: '/testimonials',
   },
@@ -36,7 +36,7 @@ export default function TestimonialsPage() {
             <p className="statement-text">
               We protect the privacy of all our guests. While we are grateful for public feedback, we do not require, incentivize, or ask for reviews during your checkout. Your time with us is entirely your own, and the quietude you experience is yours to keep.
             </p>
-            <p className="statement-signature">The Concierge Team, The Sanctuary</p>
+            <p className="statement-signature">The Concierge Team, Luxury Delhi Spa</p>
           </div>
         </div>
       </section>

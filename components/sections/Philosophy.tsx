@@ -18,7 +18,7 @@ export default function Philosophy() {
 
       <div className="container philosophy-container">
         <div className="philosophy-content">
-          <span className="philosophy-eyebrow">The Sanctuary Creed</span>
+          <span className="philosophy-eyebrow">Luxury Delhi Spa Creed</span>
           <h2 className="philosophy-quote">
             “Quiet the senses, and the body will remember how to heal.”
           </h2>

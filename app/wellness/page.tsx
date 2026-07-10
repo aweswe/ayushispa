@@ -2,9 +2,9 @@ import type { Metadata } from 'next';
 import Experience from '@/components/sections/Experience';
 
 export const metadata: Metadata = {
-  title: 'Rejuvenation Spa Delhi | Holistic Wellness Experience | The Sanctuary',
+  title: 'Rejuvenation Spa Delhi | Holistic Wellness Experience | Luxury Delhi Spa',
   description:
-    'Immerse yourself in a holistic wellness experience at The Sanctuary. Discover the best rejuvenation spa programs, digital detox retreats, and somatic therapies in Delhi.',
+    'Immerse yourself in a holistic wellness experience at Luxury Delhi Spa. Discover the best rejuvenation spa programs, digital detox retreats, and somatic therapies in Delhi.',
   alternates: {
     canonical: '/wellness',
   },
@@ -35,7 +35,7 @@ export default function WellnessPage() {
               <span className="section-eyebrow">Sensory Rest</span>
               <h2 className="section-title">The Digital Detox Protocol</h2>
               <p className="detox-body-text">
-                True rejuvenation cannot occur when the mind is constantly stimulated by notifications. At The Sanctuary, we observe a strict digital detox policy. Upon entering our enclaves, we encourage guests to place their mobile devices inside private, secure lockers in their suites.
+                True rejuvenation cannot occur when the mind is constantly stimulated by notifications. At Luxury Delhi Spa, we observe a strict digital detox policy. Upon entering our enclaves, we encourage guests to place their mobile devices inside private, secure lockers in their suites.
               </p>
               <p className="detox-body-text">
                 By eliminating screens, you allow your brain to settle, aligning your nervous system with the rhythmic breathing and sensory silence of your therapy.

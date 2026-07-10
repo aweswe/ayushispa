@@ -49,7 +49,7 @@ function getPieceAndContent(slug: string) {
               isList: true,
               listItems: [
                 `${neighborhoodName} Prime Spa Suites: Handpicked certified therapists using pure botanicals.`,
-                `The Sanctuary ${neighborhoodName} Partner Outlets: Premium steam/sauna access and hot stone rooms.`,
+                `Luxury Delhi Spa ${neighborhoodName} Partner Outlets: Premium steam/sauna access and hot stone rooms.`,
                 `Holistic Rejuvenation Center: Tailored pre-consultations and private individual chambers.`
               ]
             };

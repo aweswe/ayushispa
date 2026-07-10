@@ -3,7 +3,7 @@ import Treatments from '@/components/sections/Treatments';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-  title: 'Spa Treatments Menu Delhi | Massages & Facials | The Sanctuary',
+  title: 'Spa Treatments Menu Delhi | Massages & Facials | Luxury Delhi Spa',
   description:
     'Explore our comprehensive luxury spa treatments menu in Delhi. We offer traditional Swedish, deep tissue, custom aromatherapy, and botanical facial therapies at transparent prices.',
   alternates: {

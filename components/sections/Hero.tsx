@@ -20,7 +20,7 @@ export default function Hero() {
 
       <div className="container hero-container">
         <div className="hero-content">
-          <span className="hero-tagline animate-fade-in-up-1">The Sanctuary</span>
+          <span className="hero-tagline animate-fade-in-up-1">Luxury Delhi Spa</span>
           <h1 className="hero-heading animate-fade-in-up-2">
             The Art of<br />
             <em>Restorative</em> Wellness

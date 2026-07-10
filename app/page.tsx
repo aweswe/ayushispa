@@ -11,8 +11,8 @@ import Philosophy from '@/components/sections/Philosophy';
 import BookingCTA from '@/components/sections/BookingCTA';
 
 export const metadata: Metadata = {
-  title: 'Best Spa in Delhi | Luxury Spa Delhi NCR | The Sanctuary',
-  description: 'Experience the best spa in Delhi. The Sanctuary offers luxury wellness experiences, Ayurvedic Abhyanga massage, couples massage packages, and private suites in Aerocity, Lajpat Nagar, and Karol Bagh.',
+  title: 'Best Spa in Delhi | Luxury Spa Delhi NCR | Luxury Delhi Spa',
+  description: 'Experience the best spa in Delhi. Luxury Delhi Spa offers luxury wellness experiences, Ayurvedic Abhyanga massage, couples massage packages, and private suites in Aerocity, Lajpat Nagar, and Karol Bagh.',
   alternates: {
     canonical: '/',
   },
