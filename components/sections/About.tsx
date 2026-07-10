@@ -4,21 +4,13 @@ import StatsRow from './StatsRow';
 export default function About() {
   return (
     <section id="about" className="section-spacing about-section">
-      {/* Organic Decorative Floating SVG Lines */}
-      <div className="organic-decoration about-deco-1">
-        <svg width="240" height="240" viewBox="0 0 240 240" fill="none" xmlns="http://www.w3.org/2000/svg">
-          <path d="M10,80 C80,20 120,180 230,120" stroke="#C6B8A7" strokeWidth="1.5" strokeLinecap="round" />
-          <circle cx="230" cy="120" r="3" fill="#C6B8A7" />
-        </svg>
-      </div>
-
       <div className="container">
         <div className="about-grid">
           {/* Left Side: Images & Floating Layout */}
           <div className="about-visuals">
             <div className="main-image-wrapper">
               <Image
-                src="https://images.unsplash.com/photo-1600334089648-b0d9d3028eb2?q=80&w=1200&auto=format&fit=crop"
+                src="/images/about_spa.png"
                 alt="Spa therapist performing somatic body massage"
                 fill
                 sizes="(max-width: 768px) 100vw, 50vw"
@@ -28,7 +20,7 @@ export default function About() {
             </div>
             <div className="secondary-image-wrapper">
               <Image
-                src="https://images.unsplash.com/photo-1515377905703-c4788e51af15?q=80&w=600&auto=format&fit=crop"
+                src="/images/about_detail.png"
                 alt="Organic massage oils and stones"
                 fill
                 sizes="(max-width: 768px) 30vw, 20vw"

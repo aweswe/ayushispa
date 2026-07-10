@@ -6,10 +6,11 @@ export default function Hero() {
       {/* Cinematic Background Image */}
       <div className="hero-image-wrapper">
         <Image
-          src="https://images.unsplash.com/photo-1600334129128-685c5582fd35?q=80&w=2000&auto=format&fit=crop"
+          src="/images/hero_main.png"
           alt="Luxury Delhi Spa room bathed in warm golden sunlight"
           fill
           priority
+          fetchPriority="high"
           sizes="100vw"
           className="hero-bg-image"
           style={{ objectFit: 'cover', objectPosition: 'center' }}
@@ -19,6 +20,7 @@ export default function Hero() {
 
       <div className="container hero-container">
         <div className="hero-content">
+          <span className="hero-tagline animate-fade-in-up-1">The Sanctuary</span>
           <h1 className="hero-heading animate-fade-in-up-2">
             The Art of<br />
             <em>Restorative</em> Wellness

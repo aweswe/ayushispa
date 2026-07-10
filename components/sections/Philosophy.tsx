@@ -6,8 +6,8 @@ export default function Philosophy() {
       {/* Background Image */}
       <div className="philosophy-image-wrapper">
         <Image
-          src="https://images.unsplash.com/photo-1518241353330-0f7941c2d9b5?q=80&w=2000&auto=format&fit=crop"
-          alt="Tranquil forest canopy in soft mist representing silence"
+          src="/images/philosophy_bg.png"
+          alt="Serene luxury spa bath corner with raw travertine stone wall, warm candles, and steam"
           fill
           sizes="100vw"
           className="philosophy-bg-image"
@@ -18,13 +18,13 @@ export default function Philosophy() {
 
       <div className="container philosophy-container">
         <div className="philosophy-content">
-          <span className="philosophy-eyebrow">The Core Belief</span>
+          <span className="philosophy-eyebrow">The Sanctuary Creed</span>
           <h2 className="philosophy-quote">
-            “True wellness begins where the mind becomes quiet.”
+            “Quiet the senses, and the body will remember how to heal.”
           </h2>
           <div className="philosophy-action">
             <a href="#booking" className="btn btn-secondary philosophy-btn">
-              Begin Your Journey
+              Begin the Journey
             </a>
           </div>
         </div>

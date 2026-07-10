@@ -1,17 +1,20 @@
 'use client';
 
+import Link from 'next/link';
+
 export default function Footer() {
   const currentYear = new Date().getFullYear();
 
   const links = [
-    { name: 'Home', href: '#home' },
-    { name: 'About', href: '#about' },
-    { name: 'Treatments', href: '#treatments' },
-    { name: 'Wellness', href: '#wellness' },
-    { name: 'Membership', href: '#membership' },
-    { name: 'Gallery', href: '#gallery' },
-    { name: 'Testimonials', href: '#testimonials' },
-    { name: 'Contact', href: '#booking' },
+    { name: 'Home', href: '/' },
+    { name: 'About', href: '/about' },
+    { name: 'Treatments', href: '/treatments' },
+    { name: 'Wellness', href: '/wellness' },
+    { name: 'Membership', href: '/#membership' },
+    { name: 'Gallery', href: '/gallery' },
+    { name: 'Testimonials', href: '/testimonials' },
+    { name: 'Insights', href: '/articles' },
+    { name: 'Contact', href: '/contact' },
   ];
 
   return (
@@ -21,9 +24,9 @@ export default function Footer() {
         <div className="footer-grid">
           {/* Logo & Brand Column */}
           <div className="footer-col brand-col">
-            <a href="#home" className="logo footer-logo">
+            <Link href="/" className="logo footer-logo">
               <img src="/logo.png" alt="Luxury Delhi Spa" className="footer-logo-img" />
-            </a>
+            </Link>
             <p className="footer-brand-desc">
               A dedicated space for silence, space, and sensory restoration.
             </p>
@@ -55,9 +58,9 @@ export default function Footer() {
             <ul className="footer-links-list">
               {links.map((link) => (
                 <li key={link.name}>
-                  <a href={link.href} className="footer-link-item">
+                  <Link href={link.href} className="footer-link-item">
                     {link.name}
-                  </a>
+                  </Link>
                 </li>
               ))}
             </ul>

@@ -1,9 +1,9 @@
 'use client';
 
 import { useState, FormEvent } from 'react';
-import DatePicker from './DatePicker';
-import TimePicker from './TimePicker';
-import TreatmentPicker from './TreatmentPicker';
+import DatePicker from '@/components/ui/DatePicker';
+import TimePicker from '@/components/ui/TimePicker';
+import TreatmentPicker from '@/components/ui/TreatmentPicker';
 
 const TREATMENTS = [
   'Swedish Massage',

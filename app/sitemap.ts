@@ -1,9 +1,11 @@
 import type { MetadataRoute } from 'next';
+import seoPlan from '@/seo-plan-1783719292080.json';
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const BASE_URL = 'https://luxurydelhispa.in';
 
-  return [
+  // Static site routes
+  const staticRoutes: MetadataRoute.Sitemap = [
     {
       url: BASE_URL,
       lastModified: new Date(),
@@ -46,5 +48,44 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       changeFrequency: 'monthly',
       priority: 0.9,
     },
+    {
+      url: `${BASE_URL}/articles`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly',
+      priority: 0.8,
+    }
   ];
+
+  // Dynamic articles routes
+  const contentPieces = (seoPlan as any).plan.content_pieces || [];
+  const articleRoutes: MetadataRoute.Sitemap = contentPieces.map((piece: any) => ({
+    url: `${BASE_URL}/articles/${piece.slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'weekly',
+    priority: 0.8,
+  }));
+
+  // Hyper-local neighborhood pages
+  const localRoutes: MetadataRoute.Sitemap = [
+    {
+      url: `${BASE_URL}/articles/spa-near-me-delhi-connaught-place`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly',
+      priority: 0.8,
+    },
+    {
+      url: `${BASE_URL}/articles/spa-near-me-delhi-saket`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly',
+      priority: 0.8,
+    },
+    {
+      url: `${BASE_URL}/articles/spa-near-me-delhi-gurgaon`,
+      lastModified: new Date(),
+      changeFrequency: 'weekly',
+      priority: 0.8,
+    }
+  ];
+
+  return [...staticRoutes, ...articleRoutes, ...localRoutes];
 }

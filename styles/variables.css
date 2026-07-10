@@ -1,0 +1,99 @@
+/* CSS Reset & Variable Definitions */
+:root {
+  /* Forest & Champagne Premium Palette */
+  --bg-primary: #08100E;      /* Deepest silent forest-green base */
+  --bg-secondary: #0E1B18;    /* Jade marble secondary background */
+  --bg-card: rgba(14, 27, 24, 0.45); /* Jade-glass card base */
+  
+  --text-primary: #F7F4EF;    /* Soft warm cream text */
+  --text-muted: #8BA097;      /* Muted sage-green text */
+  --accent: #D9B48F;          /* Champagne gold accent */
+  --border-dim: rgba(217, 180, 143, 0.15); /* Muted gold border */
+  
+  --btn-bg: #D9B48F;          /* Gold buttons */
+  --btn-text: #08100E;
+  --btn-hover: #E5C494;
+  
+  /* Typography Variables */
+  --font-serif: var(--font-playfair), 'Playfair Display', Georgia, serif;
+  --font-sans: var(--font-manrope), Manrope, system-ui, -apple-system, sans-serif;
+  
+  /* Border Radii */
+  --radius-card: 24px;
+  --radius-image: 28px;
+  --radius-button: 999px;
+  --radius-container: 32px;
+  
+  /* Jade Shadows */
+  --shadow-subtle: 0 4px 30px rgba(0, 0, 0, 0.3), 0 1px 3px rgba(0, 0, 0, 0.2);
+  --shadow-hover: 0 12px 40px rgba(0, 0, 0, 0.5), 0 2px 8px rgba(0, 0, 0, 0.3);
+  
+  /* Transitions */
+  --transition-slow: 1.2s cubic-bezier(0.25, 1, 0.5, 1);
+  --transition-medium: 0.8s cubic-bezier(0.25, 1, 0.5, 1);
+  --transition-fast: 0.3s cubic-bezier(0.25, 1, 0.5, 1);
+  
+  --site-width: 1440px;
+}
+
+/* Jade Glass and Ambient Glow Effects */
+.jade-glass {
+  background: var(--bg-card);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid var(--border-dim);
+  box-shadow: 0 8px 32px 0 rgba(4, 8, 7, 0.3);
+  transition: transform var(--transition-fast), border-color var(--transition-fast), box-shadow var(--transition-fast);
+}
+
+.jade-glass:hover {
+  border-color: rgba(217, 180, 143, 0.35);
+  box-shadow: 0 12px 40px rgba(217, 180, 143, 0.08), inset 0 0 20px rgba(217, 180, 143, 0.03);
+}
+
+.jade-glass-glow {
+  position: relative;
+  overflow: hidden;
+}
+
+.jade-glass-glow::before {
+  content: '';
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: radial-gradient(circle at center, rgba(217, 180, 143, 0.08) 0%, transparent 60%);
+  opacity: 0;
+  transition: opacity 0.6s cubic-bezier(0.25, 1, 0.5, 1);
+  pointer-events: none;
+  z-index: 0;
+}
+
+.jade-glass-glow:hover::before {
+  opacity: 1;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-color: var(--bg-primary);
+}
+

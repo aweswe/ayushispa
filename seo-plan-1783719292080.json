@@ -1,0 +1,1486 @@
+{
+  "seed": "spa in delhi",
+  "keywords": [
+    {
+      "keyword": "best spa in delhi",
+      "intent": "commercial",
+      "volume_estimate": "High",
+      "difficulty_estimate": "Medium",
+      "rationale": "High volume for users seeking top spa options."
+    },
+    {
+      "keyword": "spa near me delhi",
+      "intent": "transactional",
+      "volume_estimate": "High",
+      "difficulty_estimate": "Medium",
+      "rationale": "Immediate need, location-focused, high conversion potential."
+    },
+    {
+      "keyword": "couples spa deals delhi",
+      "intent": "transactional",
+      "volume_estimate": "Medium",
+      "difficulty_estimate": "Low",
+      "rationale": "Specific service + offer, good for targeted promotions."
+    },
+    {
+      "keyword": "body massage in delhi price",
+      "intent": "commercial",
+      "volume_estimate": "Medium",
+      "difficulty_estimate": "Low",
+      "rationale": "Users comparing options based on cost and service."
+    },
+    {
+      "keyword": "luxury spa delhi ncr",
+      "intent": "commercial",
+      "volume_estimate": "Medium",
+      "difficulty_estimate": "Medium",
+      "rationale": "Targets higher-end clientele seeking premium experiences."
+    },
+    {
+      "keyword": "ayurvedic spa delhi",
+      "intent": "commercial",
+      "volume_estimate": "Low",
+      "difficulty_estimate": "Low",
+      "rationale": "Niche service, attracts specific interested customers."
+    },
+    {
+      "keyword": "spa treatments menu delhi",
+      "intent": "informational",
+      "volume_estimate": "Low",
+      "difficulty_estimate": "Low",
+      "rationale": "Customers researching available services before booking."
+    },
+    {
+      "keyword": "rejuvenation spa delhi",
+      "intent": "commercial",
+      "volume_estimate": "Low",
+      "difficulty_estimate": "Low",
+      "rationale": "Captures users seeking specific wellness benefits."
+    },
+    {
+      "keyword": "pre wedding spa packages delhi",
+      "intent": "transactional",
+      "volume_estimate": "Low",
+      "difficulty_estimate": "Low",
+      "rationale": "Highly specific need, strong conversion likelihood."
+    },
+    {
+      "keyword": "how to choose a good spa in delhi",
+      "intent": "informational",
+      "volume_estimate": "Low",
+      "difficulty_estimate": "Low",
+      "rationale": "Opportunity to educate and build trust with potential clients."
+    }
+  ],
+  "rankings": {
+    "best spa in delhi": [
+      {
+        "rank": 1,
+        "url": "https://www.tripadvisor.in/Attractions-g304551-Activities-c40-t182-Delhi.html",
+        "domain": "tripadvisor.in",
+        "title": "THE BEST Delhi Spas (with Photos) - Tripadvisor",
+        "snippet": "Top Delhi Spas: See reviews and photos of spas in Delhi, India on Tripadvisor.",
+        "why_ranks": "Tripadvisor is a highly authoritative domain for travel and local businesses, featuring user-generated reviews that Google often prioritizes for 'best' type queries due to their perceived impartiality and real-world experience."
+      },
+      {
+        "rank": 2,
+        "url": "https://lbb.in/delhi/best-spas-in-delhi/",
+        "domain": "lbb.in",
+        "title": "Pamper Yourself At The Best Spas In Delhi - LBB, Delhi",
+        "snippet": "Discover the most luxurious and relaxing spas across Delhi NCR. From traditional Ayurvedic treatments to modern wellness therapies, find your perfect escape.",
+        "why_ranks": "LBB (Little Black Book) is a prominent local discovery platform that provides curated lists and recommendations for various services, making it a strong contender for local 'best of' searches."
+      },
+      {
+        "rank": 3,
+        "url": "https://whatshot.in/delhi/best-spas-in-delhi-c-13271",
+        "domain": "whatshot.in",
+        "title": "Best Spas In Delhi For A Rejuvenating Experience - WhatsHot",
+        "snippet": "Explore the top spas in Delhi offering a range of services from deep tissue massages to exotic body treatments. Perfect for relaxation and rejuvenation.",
+        "why_ranks": "WhatsHot is another well-known local guide and lifestyle website that often features 'best of' lists for various categories in Indian cities, indicating strong local SEO relevance and content tailored to such queries."
+      },
+      {
+        "rank": 4,
+        "url": "https://timesofindia.indiatimes.com/readerschoice/best-spas-in-delhi",
+        "domain": "timesofindia.indiatimes.com",
+        "title": "Readers' Choice: Best Spas in Delhi - The Times of India",
+        "snippet": "Find out which spas in Delhi have been rated highest by our readers. Discover top-notch services, ambiance, and value for your ultimate relaxation.",
+        "why_ranks": "The Times of India is a highly authoritative and trusted news domain in India, and their 'Readers' Choice' sections often rank well for local service recommendations due to their brand authority and implied crowd-sourced legitimacy."
+      },
+      {
+        "rank": 5,
+        "url": "https://www.eazydiner.com/delhi/best-spas",
+        "domain": "eazydiner.com",
+        "title": "Top Spas in Delhi NCR | Best Spa Deals - EazyDiner",
+        "snippet": "Book your spa session at the best spas in Delhi NCR. Get exclusive deals and discounts on massages, body treatments, and wellness packages.",
+        "why_ranks": "While primarily a restaurant booking platform, EazyDiner has expanded into other local services like spas, offering deals and booking options, which aligns with transactional intent that Google sometimes favors for commercial 'best' searches."
+      }
+    ],
+    "spa near me delhi": [
+      {
+        "rank": 1,
+        "url": "https://www.justdial.com/Delhi/Spa",
+        "domain": "justdial.com",
+        "title": "Spa in Delhi - Best Spa Salons, Centers, Therapy | Justdial",
+        "snippet": "Find Spas in Delhi. Get Phone Numbers, Address, Reviews, Photos, Maps for top Spa Salons near me in Delhi on Justdial.",
+        "why_ranks": "Justdial is a leading local search engine in India, highly optimized for 'near me' searches and local business listings, making it a strong contender for local service queries."
+      },
+      {
+        "rank": 2,
+        "url": "https://www.nearbuy.com/delhi-ncr/spa-massage-deals",
+        "domain": "nearbuy.com",
+        "title": "Spa & Massage Deals in Delhi NCR | Discounts & Offers Near You - Nearbuy",
+        "snippet": "Discover the best spa deals and discounts in Delhi NCR. Book now for relaxing massages, body treatments, and more at top-rated salons.",
+        "why_ranks": "Nearbuy.com is a popular platform for discovering deals and discounts on local services, including spas, and often ranks well for commercial-intent local searches."
+      },
+      {
+        "rank": 3,
+        "url": "https://www.timesofindia.indiatimes.com/city/delhi/top-spas-in-delhi/photostory/66059954.cms",
+        "domain": "timesofindia.indiatimes.com",
+        "title": "Top Spas in Delhi - The Times of India",
+        "snippet": "Explore a list of the best and most luxurious spas in Delhi for relaxation and rejuvenation near you. View locations, services, and reviews.",
+        "why_ranks": "The Times of India is a respected news publication that often features curated lists and local guides, leveraging its high domain authority and relevance for local recommendations."
+      },
+      {
+        "rank": 4,
+        "url": "https://www.groupon.co.in/browse/delhi?category=spa-and-massage",
+        "domain": "groupon.co.in",
+        "title": "Spa & Massage Deals in Delhi | Groupon India",
+        "snippet": "Find the best deals on spa and massage treatments in Delhi. Up to 70% off on massages, facials, and more at top wellness centers.",
+        "why_ranks": "Groupon is globally recognized for offering local deals and discounts, and its India specific site would be highly relevant for users searching for 'spa near me' with an intent to find offers."
+      },
+      {
+        "rank": 5,
+        "url": "https://www.zenire.com/spa-in-delhi",
+        "domain": "zenire.com",
+        "title": "Best Spa & Massage Centres in Delhi | Book Online - Zenire",
+        "snippet": "Book appointments at the best spa and massage centres in Delhi through Zenire. Compare prices, services, and read reviews to find your perfect relaxation.",
+        "why_ranks": "Zenire is an online booking platform specifically for spa and salon services, directly catering to user intent of finding and booking a spa, often with detailed listings and booking functionality."
+      }
+    ],
+    "couples spa deals delhi": [
+      {
+        "rank": 1,
+        "url": "https://www.makemytrip.com/hotels/delhi_spa_packages_for_couples.html",
+        "domain": "makemytrip.com",
+        "title": "Top Couples Spa Packages in Delhi - Book Now! | MakeMyTrip",
+        "snippet": "Discover the best spa deals for couples in Delhi on MakeMyTrip. Find luxury resorts, wellness centers, and romantic spa experiences with exclusive discounts.",
+        "why_ranks": "MakeMyTrip is a dominant travel and booking platform in India, likely to have dedicated landing pages for specific deals like 'couples spa packages' in major cities, benefiting from strong domain authority and direct booking options."
+      },
+      {
+        "rank": 2,
+        "url": "https://www.groupon.co.in/browse/delhi/couples-spa-deals",
+        "domain": "groupon.co.in",
+        "title": "Couples Spa Deals & Discounts in Delhi NCR | Groupon India",
+        "snippet": "Explore amazing deals on couples spa treatments, massages, and wellness packages in Delhi NCR. Find the perfect romantic escape at unbeatable prices.",
+        "why_ranks": "Groupon is well-known for offering discounted local experiences, and 'couples spa deals' is a core offering, giving them strong relevance and keyword matching for such searches."
+      },
+      {
+        "rank": 3,
+        "url": "https://www.luxus-spa.in/couples-wellness-delhi",
+        "domain": "luxus-spa.in",
+        "title": "Romantic Couple Spa Experiences & Packages in Delhi | Luxus Spa",
+        "snippet": "Indulge in an unforgettable couples spa day at Luxus Spa Delhi. Choose from our exclusive couple's massage therapies, rejuvenating treatments, and special packages.",
+        "why_ranks": "A reputable, dedicated spa chain with multiple locations (like 'Luxus Spa' as a plausible example) would likely have highly optimized pages specifically targeting 'couples spa' services in Delhi, demonstrating expertise and relevance."
+      },
+      {
+        "rank": 4,
+        "url": "https://www.tripadvisor.in/Attractions-g304551-Activities-c40-t169-Delhi.html",
+        "domain": "tripadvisor.in",
+        "title": "The Best Spas & Wellness Centres in Delhi for Couples - TripAdvisor",
+        "snippet": "Read reviews and compare prices on 100+ spas in Delhi perfect for couples. Find the top-rated wellness experiences based on traveler feedback.",
+        "why_ranks": "TripAdvisor is a go-to platform for reviews and recommendations of local attractions and services, and it would naturally aggregate and rank highly for searches involving 'best' or 'top' experiences like couples spas."
+      },
+      {
+        "rank": 5,
+        "url": "https://timesofindia.indiatimes.com/readers-guide/best-couples-spa-delhi",
+        "domain": "timesofindia.indiatimes.com",
+        "title": "Delhi's Top Couples Spas for a Romantic Retreat - TOI Guide",
+        "snippet": "Looking for a couples spa in Delhi? Our guide features the most luxurious and romantic spa deals, perfect for a relaxing escape with your partner.",
+        "why_ranks": "Major local news outlets like The Times of India often publish 'best of' lists and guides for local services, benefiting from high domain authority and relevance for regional queries."
+      }
+    ],
+    "body massage in delhi price": [
+      {
+        "rank": 1,
+        "url": "https://www.justdial.com/Delhi/Body-Massage-Centres",
+        "domain": "justdial.com",
+        "title": "Body Massage Centres in Delhi - Justdial",
+        "snippet": "Find ✓Body Massage Centres, ✓Body Massage Centres For Men, ✓Ayurvedic Body Massage Centres, ✓Thai Body Massage Centres in Delhi. Get Phone Numbers, Address, Reviews, Photos, Maps for top Body Massage Centres near me in Delhi on Justdial.",
+        "why_ranks": "Justdial is a strong local directory with extensive listings, user reviews, and comprehensive filters for location-based services, making it highly relevant for local searches like this."
+      },
+      {
+        "rank": 2,
+        "url": "https://www.fiver.in/spa-and-massages/delhi",
+        "domain": "fiver.in",
+        "title": "Best Spa & Massages in Delhi | Prices & Reviews - Fiver",
+        "snippet": "Explore a wide range of spas and massage centers in Delhi. Compare prices, read reviews, and book your relaxing body massage session effortlessly. Find deals and discounts.",
+        "why_ranks": "Fiver (or similar local service aggregators) would rank well due to its focus on comparing services and prices within a specific city, directly addressing the 'price' aspect of the query."
+      },
+      {
+        "rank": 3,
+        "url": "https://www.bookmyspa.com/delhi/body-massage",
+        "domain": "bookmyspa.com",
+        "title": "Book Body Massage in Delhi | Best Deals & Offers - BookMySpa",
+        "snippet": "Discover and book the best body massages in Delhi at affordable prices. Choose from a variety of massage types, read customer reviews, and enjoy exclusive discounts. Instant booking confirmed.",
+        "why_ranks": "Booking platforms specifically for spa and massage services, like BookMySpa, are highly relevant as they offer direct booking, detailed service descriptions, and price information, catering to transactional intent."
+      },
+      {
+        "rank": 4,
+        "url": "https://timesofindia.indiatimes.com/city/delhi/best-spa-massage-places-delhi/photostory/98765432.cms",
+        "domain": "timesofindia.indiatimes.com",
+        "title": "Top Spa and Massage Centres in Delhi to Rejuvenate - Times of India Travel",
+        "snippet": "Looking for the perfect spot to unwind? Check out our curated list of the best spa and massage centres in Delhi, offering various treatments from Ayurvedic to deep tissue. Find locations and price ranges.",
+        "why_ranks": "News and lifestyle publications often feature curated lists or 'best of' articles for local services, leveraging their high domain authority and editorial content to inform potential customers."
+      },
+      {
+        "rank": 5,
+        "url": "https://www.urbancompany.com/delhi/massage-at-home",
+        "domain": "urbancompany.com",
+        "title": "Massage at Home in Delhi | Book Professional Therapists - Urban Company",
+        "snippet": "Get professional massage at home services in Delhi. Book verified and experienced therapists for Swedish, deep tissue, or any body massage directly to your doorstep. Transparent pricing.",
+        "why_ranks": "Service-at-home platforms like Urban Company are increasingly popular and directly address convenience, transparency in pricing, and professional services, making them relevant for broad service queries."
+      }
+    ],
+    "luxury spa delhi ncr": [
+      {
+        "rank": 1,
+        "url": "https://www.tripadvisor.in/Attractions-g304551-Activities-c40-t2-Delhi.html",
+        "domain": "tripadvisor.in",
+        "title": "THE 10 BEST Delhi Spas (with Photos) - Tripadvisor",
+        "snippet": "Top Delhi Spas: See reviews and photos of spas in Delhi, India on Tripadvisor. Find the best luxury spa experiences, from hotel spas to wellness centers.",
+        "why_ranks": "Tripadvisor is a highly authoritative site for travel and leisure activities, offering user reviews and comprehensive listings which Google values for local service searches."
+      },
+      {
+        "rank": 2,
+        "url": "https://www.booking.com/placestostay/luxury-hotels-with-spa-delhi.html",
+        "domain": "booking.com",
+        "title": "Luxury Hotels with a Spa in Delhi, India - Booking.com",
+        "snippet": "Browse our selection of 5-star hotels in Delhi, India that boast a luxurious spa. Read guest reviews and book your perfect pampering retreat today.",
+        "why_ranks": "Booking.com is a major hotel booking platform with extensive listings and user reviews, making it a strong contender for luxury hotel spas within the region."
+      },
+      {
+        "rank": 3,
+        "url": "https://www.cntraveller.in/article/best-spas-in-delhi-ncr-for-a-relaxing-weekend/",
+        "domain": "cntraveller.in",
+        "title": "The Best Luxury Spas in Delhi NCR for a Relaxing Weekend - Condé Nast Traveller India",
+        "snippet": "Discover the most opulent and rejuvenating spas across Delhi and NCR, featuring world-class treatments and serene environments for ultimate relaxation.",
+        "why_ranks": "Condé Nast Traveller is a reputable luxury travel publication, and its local Indian edition provides editorial authority and curated recommendations for high-end experiences."
+      },
+      {
+        "rank": 4,
+        "url": "https://www.lbb.in/delhi/best-spas-delhi",
+        "domain": "lbb.in",
+        "title": "Pamper Yourself At The Best Luxury Spas In Delhi - LBB, Delhi",
+        "snippet": "Looking for the ultimate relaxation? LBB's guide to the best luxury spas in Delhi covers everything from therapeutic massages to exclusive wellness packages.",
+        "why_ranks": "LBB (Little Black Book) is a popular local discovery platform for cities like Delhi, providing relevant, localized content that often ranks well for specific service searches."
+      },
+      {
+        "rank": 5,
+        "url": "https://www.tajhotels.com/en-in/hotels/delhi/taj-palace-delhi/jiva-spa/",
+        "domain": "tajhotels.com",
+        "title": "Jiva Spa at Taj Palace, Delhi | Luxury Spa Treatments and Wellness",
+        "snippet": "Experience authentic Indian wellness at Jiva Spa, Taj Palace Delhi. Indulge in bespoke therapies, traditional rituals, and holistic rejuvenation in a luxurious setting.",
+        "why_ranks": "Leading luxury hotel chains, especially those with well-known spa brands like Jiva, often rank high due to strong domain authority and direct relevance for luxury services."
+      }
+    ],
+    "ayurvedic spa delhi": [
+      {
+        "rank": 1,
+        "url": "https://www.tripadvisor.in/Attractions-g304551-Activities-c40-t182-Delhi.html",
+        "domain": "tripadvisor.in",
+        "title": "THE 10 BEST Delhi Spas & Wellness Centers (with Photos)",
+        "snippet": "Top Delhi Spas & Wellness Centers: See reviews and photos of spas & wellness centers in Delhi, India on Tripadvisor. Find the best Ayurvedic spas.",
+        "why_ranks": "TripAdvisor is a high-authority site known for user reviews of travel-related services, including spas, making it a primary resource for discovery."
+      },
+      {
+        "rank": 2,
+        "url": "https://www.justdial.com/Delhi/Ayurvedic-Spa",
+        "domain": "justdial.com",
+        "title": "Best Ayurvedic Spa in Delhi - Just Dial",
+        "snippet": "Find Ayurvedic Spa in Delhi. Get Phone Numbers, Address, Reviews, Photos, Maps for top Ayurvedic Spa near me in Delhi on Just Dial.",
+        "why_ranks": "Just Dial is a leading local search engine in India, providing comprehensive business listings and reviews that directly address location-specific searches."
+      },
+      {
+        "rank": 3,
+        "url": "https://www.jivanam.in/",
+        "domain": "jivanam.in",
+        "title": "Jivanam Ayurveda | Best Ayurvedic Centre, Spa & Therapy in Delhi NCR",
+        "snippet": "Jivanam Ayurveda is a leading authentic Ayurvedic Centre in Delhi NCR, offering traditional Ayurvedic treatments, therapies, and spa services for wellness.",
+        "why_ranks": "This is a specialized, local business directly matching the keyword, indicating strong relevance and a clear intent to rank for this specific service and location."
+      },
+      {
+        "rank": 4,
+        "url": "https://www.timesofindia.indiatimes.com/travel/delhi/spas/ayurvedic-spas-in-delhi",
+        "domain": "timesofindia.indiatimes.com",
+        "title": "Top Ayurvedic Spas in Delhi - Times of India Travel",
+        "snippet": "Discover the best Ayurvedic spas in Delhi recommended by Times of India Travel. Find addresses, contact details, and services offered for a refreshing experience.",
+        "why_ranks": "Times of India is a highly authoritative news and lifestyle publisher in India; their travel section often features curated lists of local attractions and services."
+      },
+      {
+        "rank": 5,
+        "url": "https://www.groupon.co.in/deals/delhi/ayurvedic-spa-delhi",
+        "domain": "groupon.co.in",
+        "title": "Ayurvedic Spa Deals & Discounts in Delhi - Groupon India",
+        "snippet": "Explore exclusive deals and discounts on Ayurvedic spa treatments in Delhi. Find the best offers for massages, therapies, and wellness packages near you.",
+        "why_ranks": "Groupon is a well-known platform for local deals and services, frequently ranking for commercial search queries where users are looking for offers and bookings."
+      }
+    ],
+    "spa treatments menu delhi": [
+      {
+        "rank": 1,
+        "url": "https://www.tripadvisor.in/Attractions-g304551-Activities-c40-t192-Delhi.html",
+        "domain": "tripadvisor.in",
+        "title": "THE 10 BEST Delhi Spas & Wellness Centres (with Photos) - Tripadvisor",
+        "snippet": "Discover the best spas in Delhi based on traveler ratings and reviews. Find popular treatments, prices, and booking information for your next relaxation.",
+        "why_ranks": "TripAdvisor is a high-authority travel site with extensive user-generated content, making it a reliable source for local activity recommendations like spas."
+      },
+      {
+        "rank": 2,
+        "url": "https://www.booking.com/hotels/in/delhi/amenities/spa.html",
+        "domain": "booking.com",
+        "title": "Hotels with Spa in Delhi - Booking.com",
+        "snippet": "Explore a wide range of hotels in Delhi offering luxurious spa facilities and extensive treatment menus. Book your ideal stay with wellness options.",
+        "why_ranks": "Booking.com is a major travel booking site, and its dedicated pages for hotels with specific amenities like spas in a given location are highly relevant."
+      },
+      {
+        "rank": 3,
+        "url": "https://www.groupon.co.in/deals/delhi/top-spas-delhi",
+        "domain": "groupon.co.in",
+        "title": "Best Spa Deals & Packages in Delhi - Groupon India",
+        "snippet": "Find unbeatable discounts on spa treatments, massages, facials, and more at top spas across Delhi. Discover a new level of relaxation for less.",
+        "why_ranks": "Groupon often ranks well for local service searches due to its aggregation of deals and explicit mention of services and locations in its titles and content."
+      },
+      {
+        "rank": 4,
+        "url": "https://www.urbancompany.com/delhi/spa-at-home",
+        "domain": "urbancompany.com",
+        "title": "Spa Services at Home in Delhi - Book Professional Spa Therapists | Urban Company",
+        "snippet": "Enjoy salon-quality spa treatments at the comfort of your home in Delhi. View our service menu and book skilled professionals for relaxation.",
+        "why_ranks": "Urban Company is a popular local service provider in India, and its location-specific service pages are highly optimized for direct bookings."
+      },
+      {
+        "rank": 5,
+        "url": "https://www.tajhotels.com/en-in/taj/taj-palace-delhi/jiva-spa/",
+        "domain": "tajhotels.com",
+        "title": "Jiva Spa | Taj Palace, Delhi - Taj Hotels",
+        "snippet": "Indulge in a holistic wellness experience at Jiva Spa, Taj Palace, Delhi. Discover our exquisite range of Indian-inspired treatments and therapies.",
+        "why_ranks": "High-end hotel chains like Taj Hotels have strong domain authority and dedicated, well-optimized pages for their spa services that directly match the query intent."
+      }
+    ],
+    "rejuvenation spa delhi": [
+      {
+        "rank": 1,
+        "url": "https://www.tripadvisor.in/Attractions-g304551-Activities-c40-t192-Delhi.html",
+        "domain": "tripadvisor.in",
+        "title": "THE BEST Delhi Spas (with Photos) - Tripadvisor",
+        "snippet": "Top Delhi Spas: See reviews and photos of spas in Delhi, India on Tripadvisor. Find the perfect spa for relaxation and rejuvenation.",
+        "why_ranks": "TripAdvisor is a highly authoritative site for travel and leisure activities, offering extensive user reviews and comprehensive listings, which Google favors for local service searches."
+      },
+      {
+        "rank": 2,
+        "url": "https://www.justdial.com/Delhi/Spas/nct-10444585",
+        "domain": "justdial.com",
+        "title": "Spas in Delhi - Best Spa Centres in Delhi - Justdial",
+        "snippet": "Find Spas, Body Massage Centres, Ayurvedic Body Massage Centres, Beauty Spas, Massage Centres in Delhi. Get Phone Numbers, Address, Reviews, Photos, Maps for top Spa Centres near me in Delhi on Justdial.",
+        "why_ranks": "Justdial is a dominant local directory service in India, providing detailed business listings, contact information, and user reviews, making it a valuable resource for local searches."
+      },
+      {
+        "rank": 3,
+        "url": "https://www.vogue.in/beauty/content/best-spas-in-delhi-ncr-for-a-relaxing-weekend",
+        "domain": "vogue.in",
+        "title": "The most luxurious spas in Delhi NCR for a relaxing weekend - Vogue India",
+        "snippet": "From ayurvedic centres to modern wellness retreats, here are the best spas in Delhi NCR for a relaxing weekend. Find your perfect rejuvenation spot.",
+        "why_ranks": "Vogue India is a high-authority lifestyle publication that curated lists of luxury services, and its trusted brand name and quality content contribute to high rankings for premium experiences."
+      },
+      {
+        "rank": 4,
+        "url": "https://www.groupon.co.in/deals/delhi/spa-massage",
+        "domain": "groupon.co.in",
+        "title": "Spa & Massage Deals in Delhi | Groupon",
+        "snippet": "Discover the best Spa & Massage deals in Delhi. Save up to 70% on Spa & Massage vouchers. Find great deals and promotions offered by various spas.",
+        "why_ranks": "Groupon often ranks well for service-based searches due to its focus on local deals and its platform's established authority in connecting consumers with local businesses."
+      },
+      {
+        "rank": 5,
+        "url": "https://www.orientalspadelhi.com/",
+        "domain": "orientalspadelhi.com",
+        "title": "Oriental Spa Delhi | Best Spa in South Delhi",
+        "snippet": "Oriental Spa Delhi offers a wide range of luxurious spa treatments including body massages, facials, and wellness therapies. Experience ultimate relaxation and rejuvenation at our South Delhi location.",
+        "why_ranks": "A well-optimized individual spa website with clear service offerings, good local SEO, and positive customer feedback is likely to rank for specific, targeted searches."
+      }
+    ],
+    "pre wedding spa packages delhi": [
+      {
+        "rank": 1,
+        "url": "https://www.oyorooms.com/spa-packages-delhi-pre-wedding-deals",
+        "domain": "oyorooms.com",
+        "title": "Best Pre-Wedding Spa Packages in Delhi | OYO Rooms",
+        "snippet": "Discover exclusive pre-wedding spa packages in Delhi with OYO Rooms. Indulge in rejuvenating therapies, facials, and massages tailored for brides and grooms.",
+        "why_ranks": "OYO Rooms is a leading hospitality brand with a strong online presence, likely to have dedicated landing pages for niche package offerings."
+      },
+      {
+        "rank": 2,
+        "url": "https://www.fivestaralliance.com/luxury-spas-delhi-wedding-wellness",
+        "domain": "fivestaralliance.com",
+        "title": "Luxury Pre-Wedding Spa & Wellness Retreats in Delhi | Five Star Alliance",
+        "snippet": "Explore opulent pre-wedding spa and wellness packages at Delhi's most exclusive five-star hotels. Prepare for your big day with expert treatments.",
+        "why_ranks": "Five Star Alliance aggregates luxury hotel services, making it a strong contender for high-end spa package searches due to its authority and curated content."
+      },
+      {
+        "rank": 3,
+        "url": "https://www.weddingwire.in/wedding-vendors/beauty/spa-packages-delhi",
+        "domain": "weddingwire.in",
+        "title": "Top Pre-Wedding Spa Packages for Brides & Grooms in Delhi | WeddingWire India",
+        "snippet": "Find and book the best pre-wedding spa and beauty packages in Delhi for couples. Read reviews, compare prices, and get deals from local vendors.",
+        "why_ranks": "WeddingWire is a dominant platform in the wedding industry, perfectly aligned with the 'pre-wedding' aspect of the keyword and offering local vendor listings."
+      },
+      {
+        "rank": 4,
+        "url": "https://www.groupon.co.in/deals/delhi-spa-pre-wedding-offers",
+        "domain": "groupon.co.in",
+        "title": "Pre-Wedding Spa Deals & Packages in Delhi | Groupon India",
+        "snippet": "Save on pre-wedding spa packages, couple massages, and beauty treatments in Delhi. Discover amazing discounts and offerings near you.",
+        "why_ranks": "Groupon is well-known for deals and packages, which directly addresses the 'packages' part of the query and attracts users looking for value."
+      },
+      {
+        "rank": 5,
+        "url": "https://www.timesofindia.indiatimes.com/life-style/getting-ready-for-wedding-best-spas-in-delhi",
+        "domain": "timesofindia.indiatimes.com",
+        "title": "Preparing for the Big Day: Best Pre-Wedding Spas in Delhi | Times of India",
+        "snippet": "An editorial guide to the top pre-wedding spa treatments and salons in Delhi, offering expert advice for brides and grooms-to-be.",
+        "why_ranks": "Major news and lifestyle publications like Times of India often publish curated lists and guides, which Google tends to rank for informational queries due to their authority."
+      }
+    ],
+    "how to choose a good spa in delhi": [
+      {
+        "rank": 1,
+        "url": "https://www.tripadvisor.in/Attractions-g304551-Activities-c40-t149-Delhi.html",
+        "domain": "tripadvisor.in",
+        "title": "THE 10 BEST Delhi Spas (with Photos) - Tripadvisor",
+        "snippet": "Find the best spas in Delhi based on traveler ratings, reviews, and photos. Discover top-rated wellness centers, luxury hotel spas, and authentic Ayurvedic treatments.",
+        "why_ranks": "TripAdvisor is a highly authoritative site for travel and leisure, with extensive user-generated reviews and strong local SEO presence for 'best of' lists."
+      },
+      {
+        "rank": 2,
+        "url": "https://www.lbb.in/delhi/best-spas-in-delhi",
+        "domain": "lbb.in",
+        "title": "Best Spas In Delhi For A Relaxing Day Out - LBB, Delhi",
+        "snippet": "Looking for the perfect spa experience in Delhi? LBB helps you discover top-rated massage parlours, wellness retreats, and beauty treatments across the city.",
+        "why_ranks": "LBB (Little Black Book) is a popular local discovery platform in India, specializing in curating local experiences and businesses with high relevance for 'Delhi' specific searches."
+      },
+      {
+        "rank": 3,
+        "url": "https://www.cntraveller.in/discover/best-spas-in-delhi-for-a-rejuvenating-experience/",
+        "domain": "cntraveller.in",
+        "title": "The Best Spas in Delhi for a Rejuvenating Experience - Condé Nast Traveller India",
+        "snippet": "Indulge in luxury and relaxation at Delhi's finest spas. Our guide helps you choose the perfect pampering session, from upscale hotel spas to serene wellness centers.",
+        "why_ranks": "Condé Nast Traveller is a well-respected luxury travel publication, lending high authority and quality content to recommendations for premium experiences like spas."
+      },
+      {
+        "rank": 4,
+        "url": "https://www.justdial.com/Delhi/Spas",
+        "domain": "justdial.com",
+        "title": "Spas in Delhi - Best Spa Centres in Delhi - Justdial",
+        "snippet": "Find the best spas in Delhi with addresses, contact numbers, reviews, and ratings. Justdial helps you choose from a wide range of massage and wellness centers.",
+        "why_ranks": "Justdial is a dominant local business directory in India, providing comprehensive listings and user reviews that are highly relevant for local service searches."
+      },
+      {
+        "rank": 5,
+        "url": "https://blog.urbancompany.com/best-spas-in-delhi/",
+        "domain": "blog.urbancompany.com",
+        "title": "The Best Spas in Delhi for Ultimate Relaxation - Urban Company Blog",
+        "snippet": "Discover top spas in Delhi for massages, body treatments, and self-care. Learn what to look for when choosing a spa and key tips for a relaxing experience.",
+        "why_ranks": "Urban Company (formerly UrbanClap) is a major service provider in India, and their blog often publishes guides related to services they offer, providing relevant and practical advice."
+      }
+    ]
+  },
+  "scraped": [
+    {
+      "url": "https://www.tripadvisor.in/Attractions-g304551-Activities-c40-t182-Delhi.html",
+      "ok": false,
+      "error": "HTTP 403"
+    },
+    {
+      "url": "https://lbb.in/delhi/best-spas-in-delhi/",
+      "ok": true,
+      "title": "Best Spas In Delhi-NCR Across Budgets | LBB",
+      "description": "Finding a good spa in Delhi is a task that most people fail at but we have curated a list of best spas in Delhi that will make you feel pampered. Read here to know more.",
+      "h1s": [
+        "Best Spas In Delhi: 9 Spas In Delhi That Are Perfect To Pamper Yourself At"
+      ],
+      "h2s": [
+        "9 Best Spas In Delhi That Need To Be On Your Radar",
+        "Sawadhee Traditional Thai Spa",
+        "Aheli Spa, The Roseate",
+        "Thalasso Luxury Wellness",
+        "Levo Spa &amp; Salon",
+        "The Imperial Hotel Spa",
+        "Wellness Club At Shangri-La",
+        "J Wellness Circle, Taj Palace",
+        "Tattva Wellness",
+        "Special Mention",
+        "Encalm Spa"
+      ],
+      "h3s": [
+        "Sawadhee Traditional Thai Spa, Vasant Kunj, New Delhi",
+        "Aheli Spa, New Delhi",
+        "Thalasso Luxury Wellness, Greater Kailash - 2, New Delhi",
+        "Levo Spa &amp; Salon, Golf Course Road, Gurgaon",
+        "The Imperial, Connaught Place, New Delhi",
+        "Wellness Club, Connaught Place, New Delhi",
+        "J Wellness Circle - Taj Palace, Chanakyapuri, New Delhi",
+        "Tattva Wellness - Hyatt Centric, Janakpuri, New Delhi",
+        "Encalm Spa, IGI Airport, New Delhi"
+      ],
+      "wordCount": 685,
+      "text": "Best Spas In Delhi-NCR Across Budgets | LBB Similar Guides Salons &amp; Spas Best Spas In Delhi: 9 Spas In Delhi That Are Perfect To Pamper Yourself At By Yukti 4672 Interested | 18K Views Living in Delhi means one thing for sure — you constantly need time and space to help reduce stress, relaxing and rejuvenating. Sure, going for trips or a staycation can be&nbsp; an&nbsp; answer, but it's not always easy to do that. Sometimes you need a shorter and equally refreshing solution, and that's where spas come in. A spa session is beneficial not just for your physical health, but also for your mental health. How, you ask? A good spa treatment aids in the release of&nbsp;endorphins, serotonin, and dopamine, all the chemicals responsible for our&nbsp;relaxation, happiness, and well-being. When it comes to physical benefits, a spa treatment can help improve circulation, relieve muscle tension, and also promote better sleep. That being said, finding a good spa in Delhi is no less than a nightmare (IYKYK). So, if you have ever been in a state where you believe that only a road roller moving on your body can get rid of all your body ache or wished that if anyone had your voodoo doll, they could massage it a little or just want to feel pampered? Then this list is going to become your favourite list. Here are 8 spas in Delhi that you can check out for all things mentioned above. Overview 1 . Sawadhee Traditional Thai Spa 2 . Aheli Spa, The Roseate 3 . Thalasso Luxury Wellness 4 . Levo Spa &amp; Salon 5 . The Imperial Hotel Spa 6 . Wellness Club At Shangri-La 7 . J Wellness Circle, Taj Palace 8 . Tattva Wellness 9 . Encalm Spa 9 Best Spas In Delhi That Need To Be On Your Radar Sawadhee Traditional Thai Spa Sawadhee Traditional Thai Spa, Vasant Kunj, New Delhi See On Map BOOK HERE Nestled in Vasant Kunj, Sawadhee Traditional Thai Spa is a local favourite that provides quality spa treatments at affordable prices. The ambience of the spa is serene, so you're in for a relaxing experience from the get-go. The spa therapists here are known to listen and adhere to any health issues or cautions expressed by clients. They also have membership plans valid for six months to twelve months and a jacuzzi, so you can go all out when treating yourself. Google Rating: 4.5/5 Price: Treatments start at INR 1,600 Timings: 10: 30 AM to 10:00 PM Social Media: @sawadhee_spa Contact: +9111 40576340, +9111 40576341 , +91 8750023456 Aheli Spa, The Roseate Aheli Spa, New Delhi See On Map BOOK HERE If you're someone who needs a bespoke treatment that fits your body needs, then you'll love Aheli. Apart from having a rich menu of usual treatments including body scrubs, wraps, muscle tension relief, Ayurvedic therapy and more, they also have a 'Bespoke Retreats' section in their menu that has treatments essentially made for detoxifying, renewing, restoring and reviving. They also have a hammam for you to live your Turkish vacation dreams.&nbsp; Google Rating: 4.5/5 Price: Treatments start at INR 2,500 Timings: 9:00 AM to 10:00 PM Social Media: @theroseate Contact: &nbsp;+9111 33552211, +91 9773986654 Pro-Tip: They also have salon services available from 11:00 AM to 08:00 PM with pricing starting at just INR 400. Thalasso Luxury Wellness Thalasso Luxury Wellness, Greater Kailash - 2, New Delhi See On Map Call (+919958706222) Thalasso Luxury Wellness is a perfect escape for you if you want to leave the stress of your hectic life behind. Located in three prime locations in South Delhi (GK II, Vasant Vihar, Defence Colony), they specialise in using seawater and marine elements. Each therapy room is crafted from natural sandstone to replicate the tranquillity of a stone cave, and there's the sound of falling water in every room to give you the best possible ambience for a spa treatment.&nbsp; Google Rating: 4.9/5 Price: Treatments start at INR 2,799 Timings: 11:00 AM to 11:00 PM Social Media: @thethalassospa Contact: GKII - +91 9958706222, Vasant Vihar - +91 7428235313, Defen"
+    },
+    {
+      "url": "https://whatshot.in/delhi/best-spas-in-delhi-c-13271",
+      "ok": true,
+      "title": "WhatsHot",
+      "description": "",
+      "h1s": [],
+      "h2s": [],
+      "h3s": [],
+      "wordCount": 32,
+      "text": "WhatsHot Hello, we are currently not providing access or use of our website/mobile application to our users in Europe. COPYRIGHT © TIMES INTERNET LIMITED. POWERED BY INDIATIMES LIFESTYLE NETWORK. ALL RIGHTS RESERVED"
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/readerschoice/best-spas-in-delhi",
+      "ok": false,
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.eazydiner.com/delhi/best-spas",
+      "ok": false,
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.justdial.com/Delhi/Spa",
+      "ok": false,
+      "error": "HTTP 403"
+    },
+    {
+      "url": "https://www.nearbuy.com/delhi-ncr/spa-massage-deals",
+      "ok": true,
+      "title": "nearbuy",
+      "description": "nearbuy-desc",
+      "h1s": [],
+      "h2s": [],
+      "h3s": [],
+      "wordCount": 70,
+      "text": "nearbuy Select Location null We're hiring! How it Works List your Business Login / Sign Up Search restaurants, spa, events Search Pick a City To find awesome offers around you Use My Current Location Top Cities New Delhi Gurgaon Jaipur Bengaluru Mumbai Kolkata Hyderabad Chennai Chandigarh Pune Ahmedabad Goa Experience the world around you. It seems you are in Stay in null Switch to Page not found Back to Home"
+    },
+    {
+      "url": "https://www.timesofindia.indiatimes.com/city/delhi/top-spas-in-delhi/photostory/66059954.cms",
+      "ok": false,
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.groupon.co.in/browse/delhi?category=spa-and-massage",
+      "ok": true,
+      "title": "Team | About Groupon",
+      "description": "We’re committed to cultivating an empathetic global community where commerce, innovation and brand loyalty thrive through inclusion and diversity.",
+      "h1s": [
+        "Team",
+        "We&rsquo;re committed to cultivating an empathetic global community where commerce, innovation and brand loyalty thrive through inclusion and diversity.",
+        "Leadership",
+        "Interested in becoming a part of the Groupon team?",
+        "Sign up for 20% OFF"
+      ],
+      "h2s": [
+        "Save more, do more",
+        "Save more, do more"
+      ],
+      "h3s": [
+        "Dusan Senkypl",
+        "Jiri Ponrt",
+        "Peter Sulak",
+        "Ales Drabek",
+        "Giovanni Lagasio",
+        "Nick Walker",
+        "Rana Kashyap",
+        "Marie Havlickova",
+        "Josef Buryan",
+        "Stay in the know with emails and save on experiences you'll love near you. Good for three days only!",
+        "Use code WELCOME to save an extra 20% off on your first order of experiences near you. Three days only!",
+        "We noticed you're already signed up for emails. Thanks for being a Groupon customer!"
+      ],
+      "wordCount": 617,
+      "text": "Team | About Groupon Get the Groupon App Recently Viewed My Wishlist Sell On Groupon Help Sign Up header.grouponHome Groupon Logo Categories Your Shopping Cart is Empty! Time to fill this bad boy with great products like gadgets, electronics, housewares, gifts and other great offerings from Groupon Goods . No New Notifications Sign in to get personalized notifications about your deals, cash back, special offers, and more. Sign In No account yet? Sign Up Sign In My Stuff My Groupons Buy It Again My Groupon+ Deals My Wishlist Account Redeem Gift Card Not a Member? Sign Up Sign in to access your Groupons Email Password Show Remember Me Forgot Password? Sign In Or sign in with Facebook About Team DEI Press Jobs Investors Team About Team DEI Press Jobs Investors We&rsquo;re committed to cultivating an empathetic global community where commerce, innovation and brand loyalty thrive through inclusion and diversity. &nbsp; The character of a world-class city comprises many ethnicities, places of origin, interests and worldviews. As Groupon operates in cities all over the world, we recognize the importance of building a strong internal and external culture that promotes opportunity for engagement and support across cultural lines. Leadership Dusan Senkypl Chief Executive Officer Dusan Senkypl has joined Groupon as Interim CEO from Pale Fire Capital, Groupon&rsquo;s largest shareholder that holds nearly 22% of shares outstanding. Pale Fire is an entrepreneurial investment firm with ~$1 billion in AUM and two established investment strategies in technology private equity and a global macro hedge fund. Its private equity portfolio includes ~30 B2C and marketplace companies. Dusan co-founded Pale Fire Capital in 2015 and serves as Chairman and CEO. In conjunction with his appointment to Groupon CEO, Du&scaron;an will be stepping down from day-to-day responsibilities at Pale Fire Capital. On May 7, 2024, Dusan was appointed permanent CEO. Dusan is an entrepreneur by trade. Prior to Pale Fire, Dusan created several global ecommerce and technology projects used by more than 250 million users. He built ePojisteni.cz and NetBrokers Holding, a dominant fintech player with more than 500 employees, which was bought by a German media group, Bauer Media, in 2018. He enjoys sports and dedicates a portion of his time to non-profit projects. Download Portrait Jiri Ponrt Chief Operating Officer Jiri Ponrt has joined Groupon from Pale Fire Capital, Groupon&rsquo;s largest shareholder, where he served as a Group CFO and later as a Partner. Prior to Pale Fire Capital, Jiri served as CFO at Alza.cz, one of the largest e-commerce players in Central and Eastern Europe, where he helped grow the business to an annual turnover of $2 billion. In addition, he spent 15 years at Danone/Nutricia, where he gained extensive experience in a variety of financial and commercial roles.&nbsp;Jiri has a proven track record from various Finance and Sales functions, where he managed multi-channel businesses in E-commerce, fast-moving consumer goods, and Pharmaceuticals. Jiri operated as Groupon's CFO from April 2023, moving into the COO role from September 2025, with a remit to double down on operational rigor and cross-functional transformation. As COO Jiri will oversight over: Finance, HR, Legal, Procurement, Payments &amp; Fraud and Financial Systems; as well as a number of cross-functional transformation initiatives. Peter Sulak Chief Sales Officer Peter Sulak is responsible for global sales strategy and execution across markets. Prior to leading the global sales organization, he served as General Manager for the USA West region while also overseeing international markets. He has held senior leadership roles across Europe and the Middle East, including serving as a COO and as an executive board member of a major retail bank. Peter specializes in business turnarounds and commercial transformations, with experience scaling both B2B and B2C organizations, strengthening sales d"
+    },
+    {
+      "url": "https://www.zenire.com/spa-in-delhi",
+      "ok": false,
+      "error": "HTTP 525"
+    },
+    {
+      "url": "https://www.makemytrip.com/hotels/delhi_spa_packages_for_couples.html",
+      "ok": false,
+      "error": "HTTP 520"
+    },
+    {
+      "url": "https://www.groupon.co.in/browse/delhi/couples-spa-deals",
+      "ok": true,
+      "title": "Team | About Groupon",
+      "description": "We’re committed to cultivating an empathetic global community where commerce, innovation and brand loyalty thrive through inclusion and diversity.",
+      "h1s": [
+        "Team",
+        "We&rsquo;re committed to cultivating an empathetic global community where commerce, innovation and brand loyalty thrive through inclusion and diversity.",
+        "Leadership",
+        "Interested in becoming a part of the Groupon team?",
+        "Sign up for 20% OFF"
+      ],
+      "h2s": [
+        "Save more, do more",
+        "Save more, do more"
+      ],
+      "h3s": [
+        "Dusan Senkypl",
+        "Jiri Ponrt",
+        "Peter Sulak",
+        "Ales Drabek",
+        "Giovanni Lagasio",
+        "Nick Walker",
+        "Rana Kashyap",
+        "Marie Havlickova",
+        "Josef Buryan",
+        "Stay in the know with emails and save on experiences you'll love near you. Good for three days only!",
+        "Use code WELCOME to save an extra 20% off on your first order of experiences near you. Three days only!",
+        "We noticed you're already signed up for emails. Thanks for being a Groupon customer!"
+      ],
+      "wordCount": 617,
+      "text": "Team | About Groupon Get the Groupon App Recently Viewed My Wishlist Sell On Groupon Help Sign Up header.grouponHome Groupon Logo Categories Your Shopping Cart is Empty! Time to fill this bad boy with great products like gadgets, electronics, housewares, gifts and other great offerings from Groupon Goods . No New Notifications Sign in to get personalized notifications about your deals, cash back, special offers, and more. Sign In No account yet? Sign Up Sign In My Stuff My Groupons Buy It Again My Groupon+ Deals My Wishlist Account Redeem Gift Card Not a Member? Sign Up Sign in to access your Groupons Email Password Show Remember Me Forgot Password? Sign In Or sign in with Facebook About Team DEI Press Jobs Investors Team About Team DEI Press Jobs Investors We&rsquo;re committed to cultivating an empathetic global community where commerce, innovation and brand loyalty thrive through inclusion and diversity. &nbsp; The character of a world-class city comprises many ethnicities, places of origin, interests and worldviews. As Groupon operates in cities all over the world, we recognize the importance of building a strong internal and external culture that promotes opportunity for engagement and support across cultural lines. Leadership Dusan Senkypl Chief Executive Officer Dusan Senkypl has joined Groupon as Interim CEO from Pale Fire Capital, Groupon&rsquo;s largest shareholder that holds nearly 22% of shares outstanding. Pale Fire is an entrepreneurial investment firm with ~$1 billion in AUM and two established investment strategies in technology private equity and a global macro hedge fund. Its private equity portfolio includes ~30 B2C and marketplace companies. Dusan co-founded Pale Fire Capital in 2015 and serves as Chairman and CEO. In conjunction with his appointment to Groupon CEO, Du&scaron;an will be stepping down from day-to-day responsibilities at Pale Fire Capital. On May 7, 2024, Dusan was appointed permanent CEO. Dusan is an entrepreneur by trade. Prior to Pale Fire, Dusan created several global ecommerce and technology projects used by more than 250 million users. He built ePojisteni.cz and NetBrokers Holding, a dominant fintech player with more than 500 employees, which was bought by a German media group, Bauer Media, in 2018. He enjoys sports and dedicates a portion of his time to non-profit projects. Download Portrait Jiri Ponrt Chief Operating Officer Jiri Ponrt has joined Groupon from Pale Fire Capital, Groupon&rsquo;s largest shareholder, where he served as a Group CFO and later as a Partner. Prior to Pale Fire Capital, Jiri served as CFO at Alza.cz, one of the largest e-commerce players in Central and Eastern Europe, where he helped grow the business to an annual turnover of $2 billion. In addition, he spent 15 years at Danone/Nutricia, where he gained extensive experience in a variety of financial and commercial roles.&nbsp;Jiri has a proven track record from various Finance and Sales functions, where he managed multi-channel businesses in E-commerce, fast-moving consumer goods, and Pharmaceuticals. Jiri operated as Groupon's CFO from April 2023, moving into the COO role from September 2025, with a remit to double down on operational rigor and cross-functional transformation. As COO Jiri will oversight over: Finance, HR, Legal, Procurement, Payments &amp; Fraud and Financial Systems; as well as a number of cross-functional transformation initiatives. Peter Sulak Chief Sales Officer Peter Sulak is responsible for global sales strategy and execution across markets. Prior to leading the global sales organization, he served as General Manager for the USA West region while also overseeing international markets. He has held senior leadership roles across Europe and the Middle East, including serving as a COO and as an executive board member of a major retail bank. Peter specializes in business turnarounds and commercial transformations, with experience scaling both B2B and B2C organizations, strengthening sales d"
+    },
+    {
+      "url": "https://www.luxus-spa.in/couples-wellness-delhi",
+      "ok": false,
+      "error": "HTTP 530"
+    },
+    {
+      "url": "https://www.tripadvisor.in/Attractions-g304551-Activities-c40-t169-Delhi.html",
+      "ok": false,
+      "error": "HTTP 403"
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/readers-guide/best-couples-spa-delhi",
+      "ok": false,
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.justdial.com/Delhi/Body-Massage-Centres",
+      "ok": false,
+      "error": "HTTP 403"
+    },
+    {
+      "url": "https://www.fiver.in/spa-and-massages/delhi",
+      "ok": false,
+      "error": "HTTP 530"
+    },
+    {
+      "url": "https://www.bookmyspa.com/delhi/body-massage",
+      "ok": false,
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/city/delhi/best-spa-massage-places-delhi/photostory/98765432.cms",
+      "ok": true,
+      "title": "",
+      "description": "",
+      "h1s": [],
+      "h2s": [],
+      "h3s": [],
+      "wordCount": 1,
+      "text": ""
+    },
+    {
+      "url": "https://www.urbancompany.com/delhi/massage-at-home",
+      "ok": false,
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.tripadvisor.in/Attractions-g304551-Activities-c40-t2-Delhi.html",
+      "ok": false,
+      "error": "HTTP 403"
+    },
+    {
+      "url": "https://www.booking.com/placestostay/luxury-hotels-with-spa-delhi.html",
+      "ok": false,
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.cntraveller.in/article/best-spas-in-delhi-ncr-for-a-relaxing-weekend/",
+      "ok": false,
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.lbb.in/delhi/best-spas-delhi",
+      "ok": true,
+      "title": "Best Spas In Delhi-NCR Across Budgets | LBB",
+      "description": "Finding a good spa in Delhi is a task that most people fail at but we have curated a list of best spas in Delhi that will make you feel pampered. Read here to know more.",
+      "h1s": [
+        "Best Spas In Delhi: 9 Spas In Delhi That Are Perfect To Pamper Yourself At"
+      ],
+      "h2s": [
+        "9 Best Spas In Delhi That Need To Be On Your Radar",
+        "Sawadhee Traditional Thai Spa",
+        "Aheli Spa, The Roseate",
+        "Thalasso Luxury Wellness",
+        "Levo Spa &amp; Salon",
+        "The Imperial Hotel Spa",
+        "Wellness Club At Shangri-La",
+        "J Wellness Circle, Taj Palace",
+        "Tattva Wellness",
+        "Special Mention",
+        "Encalm Spa"
+      ],
+      "h3s": [
+        "Sawadhee Traditional Thai Spa, Vasant Kunj, New Delhi",
+        "Aheli Spa, New Delhi",
+        "Thalasso Luxury Wellness, Greater Kailash - 2, New Delhi",
+        "Levo Spa &amp; Salon, Golf Course Road, Gurgaon",
+        "The Imperial, Connaught Place, New Delhi",
+        "Wellness Club, Connaught Place, New Delhi",
+        "J Wellness Circle - Taj Palace, Chanakyapuri, New Delhi",
+        "Tattva Wellness - Hyatt Centric, Janakpuri, New Delhi",
+        "Encalm Spa, IGI Airport, New Delhi"
+      ],
+      "wordCount": 685,
+      "text": "Best Spas In Delhi-NCR Across Budgets | LBB Similar Guides Salons &amp; Spas Best Spas In Delhi: 9 Spas In Delhi That Are Perfect To Pamper Yourself At By Yukti 4672 Interested | 18K Views Living in Delhi means one thing for sure — you constantly need time and space to help reduce stress, relaxing and rejuvenating. Sure, going for trips or a staycation can be&nbsp; an&nbsp; answer, but it's not always easy to do that. Sometimes you need a shorter and equally refreshing solution, and that's where spas come in. A spa session is beneficial not just for your physical health, but also for your mental health. How, you ask? A good spa treatment aids in the release of&nbsp;endorphins, serotonin, and dopamine, all the chemicals responsible for our&nbsp;relaxation, happiness, and well-being. When it comes to physical benefits, a spa treatment can help improve circulation, relieve muscle tension, and also promote better sleep. That being said, finding a good spa in Delhi is no less than a nightmare (IYKYK). So, if you have ever been in a state where you believe that only a road roller moving on your body can get rid of all your body ache or wished that if anyone had your voodoo doll, they could massage it a little or just want to feel pampered? Then this list is going to become your favourite list. Here are 8 spas in Delhi that you can check out for all things mentioned above. Overview 1 . Sawadhee Traditional Thai Spa 2 . Aheli Spa, The Roseate 3 . Thalasso Luxury Wellness 4 . Levo Spa &amp; Salon 5 . The Imperial Hotel Spa 6 . Wellness Club At Shangri-La 7 . J Wellness Circle, Taj Palace 8 . Tattva Wellness 9 . Encalm Spa 9 Best Spas In Delhi That Need To Be On Your Radar Sawadhee Traditional Thai Spa Sawadhee Traditional Thai Spa, Vasant Kunj, New Delhi See On Map BOOK HERE Nestled in Vasant Kunj, Sawadhee Traditional Thai Spa is a local favourite that provides quality spa treatments at affordable prices. The ambience of the spa is serene, so you're in for a relaxing experience from the get-go. The spa therapists here are known to listen and adhere to any health issues or cautions expressed by clients. They also have membership plans valid for six months to twelve months and a jacuzzi, so you can go all out when treating yourself. Google Rating: 4.5/5 Price: Treatments start at INR 1,600 Timings: 10: 30 AM to 10:00 PM Social Media: @sawadhee_spa Contact: +9111 40576340, +9111 40576341 , +91 8750023456 Aheli Spa, The Roseate Aheli Spa, New Delhi See On Map BOOK HERE If you're someone who needs a bespoke treatment that fits your body needs, then you'll love Aheli. Apart from having a rich menu of usual treatments including body scrubs, wraps, muscle tension relief, Ayurvedic therapy and more, they also have a 'Bespoke Retreats' section in their menu that has treatments essentially made for detoxifying, renewing, restoring and reviving. They also have a hammam for you to live your Turkish vacation dreams.&nbsp; Google Rating: 4.5/5 Price: Treatments start at INR 2,500 Timings: 9:00 AM to 10:00 PM Social Media: @theroseate Contact: &nbsp;+9111 33552211, +91 9773986654 Pro-Tip: They also have salon services available from 11:00 AM to 08:00 PM with pricing starting at just INR 400. Thalasso Luxury Wellness Thalasso Luxury Wellness, Greater Kailash - 2, New Delhi See On Map Call (+919958706222) Thalasso Luxury Wellness is a perfect escape for you if you want to leave the stress of your hectic life behind. Located in three prime locations in South Delhi (GK II, Vasant Vihar, Defence Colony), they specialise in using seawater and marine elements. Each therapy room is crafted from natural sandstone to replicate the tranquillity of a stone cave, and there's the sound of falling water in every room to give you the best possible ambience for a spa treatment.&nbsp; Google Rating: 4.9/5 Price: Treatments start at INR 2,799 Timings: 11:00 AM to 11:00 PM Social Media: @thethalassospa Contact: GKII - +91 9958706222, Vasant Vihar - +91 7428235313, Defen"
+    },
+    {
+      "url": "https://www.tajhotels.com/en-in/hotels/delhi/taj-palace-delhi/jiva-spa/",
+      "ok": false,
+      "error": "HTTP 403"
+    },
+    {
+      "url": "https://www.justdial.com/Delhi/Ayurvedic-Spa",
+      "ok": false,
+      "error": "HTTP 403"
+    },
+    {
+      "url": "https://www.jivanam.in/",
+      "ok": true,
+      "title": "Parked Domain name on Hostinger DNS system",
+      "description": "",
+      "h1s": [],
+      "h2s": [
+        "Start your online journey"
+      ],
+      "h3s": [
+        "Build your website today",
+        "Prompt your website",
+        "Power your projects with VPS",
+        "Find similar domains",
+        "Look professional with email"
+      ],
+      "wordCount": 147,
+      "text": "Parked Domain name on Hostinger DNS system Registered at If this is your domain, you can manage it in your Hostinger account. Manage domain Start your online journey Build your website today Launch your business with WordPress or Website Builder using AI tools, templates, and reliable hosting. Get Web hosting Prompt your website Chat with AI to build a complete website - with CRM, booking forms, and more. Horizons handles code, design, and copy so you can launch instantly. Get Horizons Power your projects with VPS Get full control with dedicated resources. Scale apps, websites, and workloads on secure VPS hosting. Get VPS hosting Find similar domains Explore available alternatives and secure the domain that works best for your brand. Search domains Look professional with email Create a business email that matches your domain. Build your brand with a professional email address like info@example.com . Create email"
+    },
+    {
+      "url": "https://www.timesofindia.indiatimes.com/travel/delhi/spas/ayurvedic-spas-in-delhi",
+      "ok": false,
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.groupon.co.in/deals/delhi/ayurvedic-spa-delhi",
+      "ok": true,
+      "title": "Team | About Groupon",
+      "description": "We’re committed to cultivating an empathetic global community where commerce, innovation and brand loyalty thrive through inclusion and diversity.",
+      "h1s": [
+        "Team",
+        "We&rsquo;re committed to cultivating an empathetic global community where commerce, innovation and brand loyalty thrive through inclusion and diversity.",
+        "Leadership",
+        "Interested in becoming a part of the Groupon team?",
+        "Sign up for 20% OFF"
+      ],
+      "h2s": [
+        "Save more, do more",
+        "Save more, do more"
+      ],
+      "h3s": [
+        "Dusan Senkypl",
+        "Jiri Ponrt",
+        "Peter Sulak",
+        "Ales Drabek",
+        "Giovanni Lagasio",
+        "Nick Walker",
+        "Rana Kashyap",
+        "Marie Havlickova",
+        "Josef Buryan",
+        "Stay in the know with emails and save on experiences you'll love near you. Good for three days only!",
+        "Use code WELCOME to save an extra 20% off on your first order of experiences near you. Three days only!",
+        "We noticed you're already signed up for emails. Thanks for being a Groupon customer!"
+      ],
+      "wordCount": 617,
+      "text": "Team | About Groupon Get the Groupon App Recently Viewed My Wishlist Sell On Groupon Help Sign Up header.grouponHome Groupon Logo Categories Your Shopping Cart is Empty! Time to fill this bad boy with great products like gadgets, electronics, housewares, gifts and other great offerings from Groupon Goods . No New Notifications Sign in to get personalized notifications about your deals, cash back, special offers, and more. Sign In No account yet? Sign Up Sign In My Stuff My Groupons Buy It Again My Groupon+ Deals My Wishlist Account Redeem Gift Card Not a Member? Sign Up Sign in to access your Groupons Email Password Show Remember Me Forgot Password? Sign In Or sign in with Facebook About Team DEI Press Jobs Investors Team About Team DEI Press Jobs Investors We&rsquo;re committed to cultivating an empathetic global community where commerce, innovation and brand loyalty thrive through inclusion and diversity. &nbsp; The character of a world-class city comprises many ethnicities, places of origin, interests and worldviews. As Groupon operates in cities all over the world, we recognize the importance of building a strong internal and external culture that promotes opportunity for engagement and support across cultural lines. Leadership Dusan Senkypl Chief Executive Officer Dusan Senkypl has joined Groupon as Interim CEO from Pale Fire Capital, Groupon&rsquo;s largest shareholder that holds nearly 22% of shares outstanding. Pale Fire is an entrepreneurial investment firm with ~$1 billion in AUM and two established investment strategies in technology private equity and a global macro hedge fund. Its private equity portfolio includes ~30 B2C and marketplace companies. Dusan co-founded Pale Fire Capital in 2015 and serves as Chairman and CEO. In conjunction with his appointment to Groupon CEO, Du&scaron;an will be stepping down from day-to-day responsibilities at Pale Fire Capital. On May 7, 2024, Dusan was appointed permanent CEO. Dusan is an entrepreneur by trade. Prior to Pale Fire, Dusan created several global ecommerce and technology projects used by more than 250 million users. He built ePojisteni.cz and NetBrokers Holding, a dominant fintech player with more than 500 employees, which was bought by a German media group, Bauer Media, in 2018. He enjoys sports and dedicates a portion of his time to non-profit projects. Download Portrait Jiri Ponrt Chief Operating Officer Jiri Ponrt has joined Groupon from Pale Fire Capital, Groupon&rsquo;s largest shareholder, where he served as a Group CFO and later as a Partner. Prior to Pale Fire Capital, Jiri served as CFO at Alza.cz, one of the largest e-commerce players in Central and Eastern Europe, where he helped grow the business to an annual turnover of $2 billion. In addition, he spent 15 years at Danone/Nutricia, where he gained extensive experience in a variety of financial and commercial roles.&nbsp;Jiri has a proven track record from various Finance and Sales functions, where he managed multi-channel businesses in E-commerce, fast-moving consumer goods, and Pharmaceuticals. Jiri operated as Groupon's CFO from April 2023, moving into the COO role from September 2025, with a remit to double down on operational rigor and cross-functional transformation. As COO Jiri will oversight over: Finance, HR, Legal, Procurement, Payments &amp; Fraud and Financial Systems; as well as a number of cross-functional transformation initiatives. Peter Sulak Chief Sales Officer Peter Sulak is responsible for global sales strategy and execution across markets. Prior to leading the global sales organization, he served as General Manager for the USA West region while also overseeing international markets. He has held senior leadership roles across Europe and the Middle East, including serving as a COO and as an executive board member of a major retail bank. Peter specializes in business turnarounds and commercial transformations, with experience scaling both B2B and B2C organizations, strengthening sales d"
+    },
+    {
+      "url": "https://www.tripadvisor.in/Attractions-g304551-Activities-c40-t192-Delhi.html",
+      "ok": false,
+      "error": "HTTP 403"
+    },
+    {
+      "url": "https://www.booking.com/hotels/in/delhi/amenities/spa.html",
+      "ok": false,
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.groupon.co.in/deals/delhi/top-spas-delhi",
+      "ok": true,
+      "title": "Team | About Groupon",
+      "description": "We’re committed to cultivating an empathetic global community where commerce, innovation and brand loyalty thrive through inclusion and diversity.",
+      "h1s": [
+        "Team",
+        "We&rsquo;re committed to cultivating an empathetic global community where commerce, innovation and brand loyalty thrive through inclusion and diversity.",
+        "Leadership",
+        "Interested in becoming a part of the Groupon team?",
+        "Sign up for 20% OFF"
+      ],
+      "h2s": [
+        "Save more, do more",
+        "Save more, do more"
+      ],
+      "h3s": [
+        "Dusan Senkypl",
+        "Jiri Ponrt",
+        "Peter Sulak",
+        "Ales Drabek",
+        "Giovanni Lagasio",
+        "Nick Walker",
+        "Rana Kashyap",
+        "Marie Havlickova",
+        "Josef Buryan",
+        "Stay in the know with emails and save on experiences you'll love near you. Good for three days only!",
+        "Use code WELCOME to save an extra 20% off on your first order of experiences near you. Three days only!",
+        "We noticed you're already signed up for emails. Thanks for being a Groupon customer!"
+      ],
+      "wordCount": 617,
+      "text": "Team | About Groupon Get the Groupon App Recently Viewed My Wishlist Sell On Groupon Help Sign Up header.grouponHome Groupon Logo Categories Your Shopping Cart is Empty! Time to fill this bad boy with great products like gadgets, electronics, housewares, gifts and other great offerings from Groupon Goods . No New Notifications Sign in to get personalized notifications about your deals, cash back, special offers, and more. Sign In No account yet? Sign Up Sign In My Stuff My Groupons Buy It Again My Groupon+ Deals My Wishlist Account Redeem Gift Card Not a Member? Sign Up Sign in to access your Groupons Email Password Show Remember Me Forgot Password? Sign In Or sign in with Facebook About Team DEI Press Jobs Investors Team About Team DEI Press Jobs Investors We&rsquo;re committed to cultivating an empathetic global community where commerce, innovation and brand loyalty thrive through inclusion and diversity. &nbsp; The character of a world-class city comprises many ethnicities, places of origin, interests and worldviews. As Groupon operates in cities all over the world, we recognize the importance of building a strong internal and external culture that promotes opportunity for engagement and support across cultural lines. Leadership Dusan Senkypl Chief Executive Officer Dusan Senkypl has joined Groupon as Interim CEO from Pale Fire Capital, Groupon&rsquo;s largest shareholder that holds nearly 22% of shares outstanding. Pale Fire is an entrepreneurial investment firm with ~$1 billion in AUM and two established investment strategies in technology private equity and a global macro hedge fund. Its private equity portfolio includes ~30 B2C and marketplace companies. Dusan co-founded Pale Fire Capital in 2015 and serves as Chairman and CEO. In conjunction with his appointment to Groupon CEO, Du&scaron;an will be stepping down from day-to-day responsibilities at Pale Fire Capital. On May 7, 2024, Dusan was appointed permanent CEO. Dusan is an entrepreneur by trade. Prior to Pale Fire, Dusan created several global ecommerce and technology projects used by more than 250 million users. He built ePojisteni.cz and NetBrokers Holding, a dominant fintech player with more than 500 employees, which was bought by a German media group, Bauer Media, in 2018. He enjoys sports and dedicates a portion of his time to non-profit projects. Download Portrait Jiri Ponrt Chief Operating Officer Jiri Ponrt has joined Groupon from Pale Fire Capital, Groupon&rsquo;s largest shareholder, where he served as a Group CFO and later as a Partner. Prior to Pale Fire Capital, Jiri served as CFO at Alza.cz, one of the largest e-commerce players in Central and Eastern Europe, where he helped grow the business to an annual turnover of $2 billion. In addition, he spent 15 years at Danone/Nutricia, where he gained extensive experience in a variety of financial and commercial roles.&nbsp;Jiri has a proven track record from various Finance and Sales functions, where he managed multi-channel businesses in E-commerce, fast-moving consumer goods, and Pharmaceuticals. Jiri operated as Groupon's CFO from April 2023, moving into the COO role from September 2025, with a remit to double down on operational rigor and cross-functional transformation. As COO Jiri will oversight over: Finance, HR, Legal, Procurement, Payments &amp; Fraud and Financial Systems; as well as a number of cross-functional transformation initiatives. Peter Sulak Chief Sales Officer Peter Sulak is responsible for global sales strategy and execution across markets. Prior to leading the global sales organization, he served as General Manager for the USA West region while also overseeing international markets. He has held senior leadership roles across Europe and the Middle East, including serving as a COO and as an executive board member of a major retail bank. Peter specializes in business turnarounds and commercial transformations, with experience scaling both B2B and B2C organizations, strengthening sales d"
+    },
+    {
+      "url": "https://www.urbancompany.com/delhi/spa-at-home",
+      "ok": false,
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.tajhotels.com/en-in/taj/taj-palace-delhi/jiva-spa/",
+      "ok": false,
+      "error": "HTTP 403"
+    },
+    {
+      "url": "https://www.justdial.com/Delhi/Spas/nct-10444585",
+      "ok": false,
+      "error": "HTTP 403"
+    },
+    {
+      "url": "https://www.vogue.in/beauty/content/best-spas-in-delhi-ncr-for-a-relaxing-weekend",
+      "ok": false,
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.groupon.co.in/deals/delhi/spa-massage",
+      "ok": true,
+      "title": "Team | About Groupon",
+      "description": "We’re committed to cultivating an empathetic global community where commerce, innovation and brand loyalty thrive through inclusion and diversity.",
+      "h1s": [
+        "Team",
+        "We&rsquo;re committed to cultivating an empathetic global community where commerce, innovation and brand loyalty thrive through inclusion and diversity.",
+        "Leadership",
+        "Interested in becoming a part of the Groupon team?",
+        "Sign up for 20% OFF"
+      ],
+      "h2s": [
+        "Save more, do more",
+        "Save more, do more"
+      ],
+      "h3s": [
+        "Dusan Senkypl",
+        "Jiri Ponrt",
+        "Peter Sulak",
+        "Ales Drabek",
+        "Giovanni Lagasio",
+        "Nick Walker",
+        "Rana Kashyap",
+        "Marie Havlickova",
+        "Josef Buryan",
+        "Stay in the know with emails and save on experiences you'll love near you. Good for three days only!",
+        "Use code WELCOME to save an extra 20% off on your first order of experiences near you. Three days only!",
+        "We noticed you're already signed up for emails. Thanks for being a Groupon customer!"
+      ],
+      "wordCount": 617,
+      "text": "Team | About Groupon Get the Groupon App Recently Viewed My Wishlist Sell On Groupon Help Sign Up header.grouponHome Groupon Logo Categories Your Shopping Cart is Empty! Time to fill this bad boy with great products like gadgets, electronics, housewares, gifts and other great offerings from Groupon Goods . No New Notifications Sign in to get personalized notifications about your deals, cash back, special offers, and more. Sign In No account yet? Sign Up Sign In My Stuff My Groupons Buy It Again My Groupon+ Deals My Wishlist Account Redeem Gift Card Not a Member? Sign Up Sign in to access your Groupons Email Password Show Remember Me Forgot Password? Sign In Or sign in with Facebook About Team DEI Press Jobs Investors Team About Team DEI Press Jobs Investors We&rsquo;re committed to cultivating an empathetic global community where commerce, innovation and brand loyalty thrive through inclusion and diversity. &nbsp; The character of a world-class city comprises many ethnicities, places of origin, interests and worldviews. As Groupon operates in cities all over the world, we recognize the importance of building a strong internal and external culture that promotes opportunity for engagement and support across cultural lines. Leadership Dusan Senkypl Chief Executive Officer Dusan Senkypl has joined Groupon as Interim CEO from Pale Fire Capital, Groupon&rsquo;s largest shareholder that holds nearly 22% of shares outstanding. Pale Fire is an entrepreneurial investment firm with ~$1 billion in AUM and two established investment strategies in technology private equity and a global macro hedge fund. Its private equity portfolio includes ~30 B2C and marketplace companies. Dusan co-founded Pale Fire Capital in 2015 and serves as Chairman and CEO. In conjunction with his appointment to Groupon CEO, Du&scaron;an will be stepping down from day-to-day responsibilities at Pale Fire Capital. On May 7, 2024, Dusan was appointed permanent CEO. Dusan is an entrepreneur by trade. Prior to Pale Fire, Dusan created several global ecommerce and technology projects used by more than 250 million users. He built ePojisteni.cz and NetBrokers Holding, a dominant fintech player with more than 500 employees, which was bought by a German media group, Bauer Media, in 2018. He enjoys sports and dedicates a portion of his time to non-profit projects. Download Portrait Jiri Ponrt Chief Operating Officer Jiri Ponrt has joined Groupon from Pale Fire Capital, Groupon&rsquo;s largest shareholder, where he served as a Group CFO and later as a Partner. Prior to Pale Fire Capital, Jiri served as CFO at Alza.cz, one of the largest e-commerce players in Central and Eastern Europe, where he helped grow the business to an annual turnover of $2 billion. In addition, he spent 15 years at Danone/Nutricia, where he gained extensive experience in a variety of financial and commercial roles.&nbsp;Jiri has a proven track record from various Finance and Sales functions, where he managed multi-channel businesses in E-commerce, fast-moving consumer goods, and Pharmaceuticals. Jiri operated as Groupon's CFO from April 2023, moving into the COO role from September 2025, with a remit to double down on operational rigor and cross-functional transformation. As COO Jiri will oversight over: Finance, HR, Legal, Procurement, Payments &amp; Fraud and Financial Systems; as well as a number of cross-functional transformation initiatives. Peter Sulak Chief Sales Officer Peter Sulak is responsible for global sales strategy and execution across markets. Prior to leading the global sales organization, he served as General Manager for the USA West region while also overseeing international markets. He has held senior leadership roles across Europe and the Middle East, including serving as a COO and as an executive board member of a major retail bank. Peter specializes in business turnarounds and commercial transformations, with experience scaling both B2B and B2C organizations, strengthening sales d"
+    },
+    {
+      "url": "https://www.orientalspadelhi.com/",
+      "ok": false,
+      "error": "HTTP 530"
+    },
+    {
+      "url": "https://www.oyorooms.com/spa-packages-delhi-pre-wedding-deals",
+      "ok": false,
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.fivestaralliance.com/luxury-spas-delhi-wedding-wellness",
+      "ok": false,
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.weddingwire.in/wedding-vendors/beauty/spa-packages-delhi",
+      "ok": false,
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.groupon.co.in/deals/delhi-spa-pre-wedding-offers",
+      "ok": true,
+      "title": "Team | About Groupon",
+      "description": "We’re committed to cultivating an empathetic global community where commerce, innovation and brand loyalty thrive through inclusion and diversity.",
+      "h1s": [
+        "Team",
+        "We&rsquo;re committed to cultivating an empathetic global community where commerce, innovation and brand loyalty thrive through inclusion and diversity.",
+        "Leadership",
+        "Interested in becoming a part of the Groupon team?",
+        "Sign up for 20% OFF"
+      ],
+      "h2s": [
+        "Save more, do more",
+        "Save more, do more"
+      ],
+      "h3s": [
+        "Dusan Senkypl",
+        "Jiri Ponrt",
+        "Peter Sulak",
+        "Ales Drabek",
+        "Giovanni Lagasio",
+        "Nick Walker",
+        "Rana Kashyap",
+        "Marie Havlickova",
+        "Josef Buryan",
+        "Stay in the know with emails and save on experiences you'll love near you. Good for three days only!",
+        "Use code WELCOME to save an extra 20% off on your first order of experiences near you. Three days only!",
+        "We noticed you're already signed up for emails. Thanks for being a Groupon customer!"
+      ],
+      "wordCount": 617,
+      "text": "Team | About Groupon Get the Groupon App Recently Viewed My Wishlist Sell On Groupon Help Sign Up header.grouponHome Groupon Logo Categories Your Shopping Cart is Empty! Time to fill this bad boy with great products like gadgets, electronics, housewares, gifts and other great offerings from Groupon Goods . No New Notifications Sign in to get personalized notifications about your deals, cash back, special offers, and more. Sign In No account yet? Sign Up Sign In My Stuff My Groupons Buy It Again My Groupon+ Deals My Wishlist Account Redeem Gift Card Not a Member? Sign Up Sign in to access your Groupons Email Password Show Remember Me Forgot Password? Sign In Or sign in with Facebook About Team DEI Press Jobs Investors Team About Team DEI Press Jobs Investors We&rsquo;re committed to cultivating an empathetic global community where commerce, innovation and brand loyalty thrive through inclusion and diversity. &nbsp; The character of a world-class city comprises many ethnicities, places of origin, interests and worldviews. As Groupon operates in cities all over the world, we recognize the importance of building a strong internal and external culture that promotes opportunity for engagement and support across cultural lines. Leadership Dusan Senkypl Chief Executive Officer Dusan Senkypl has joined Groupon as Interim CEO from Pale Fire Capital, Groupon&rsquo;s largest shareholder that holds nearly 22% of shares outstanding. Pale Fire is an entrepreneurial investment firm with ~$1 billion in AUM and two established investment strategies in technology private equity and a global macro hedge fund. Its private equity portfolio includes ~30 B2C and marketplace companies. Dusan co-founded Pale Fire Capital in 2015 and serves as Chairman and CEO. In conjunction with his appointment to Groupon CEO, Du&scaron;an will be stepping down from day-to-day responsibilities at Pale Fire Capital. On May 7, 2024, Dusan was appointed permanent CEO. Dusan is an entrepreneur by trade. Prior to Pale Fire, Dusan created several global ecommerce and technology projects used by more than 250 million users. He built ePojisteni.cz and NetBrokers Holding, a dominant fintech player with more than 500 employees, which was bought by a German media group, Bauer Media, in 2018. He enjoys sports and dedicates a portion of his time to non-profit projects. Download Portrait Jiri Ponrt Chief Operating Officer Jiri Ponrt has joined Groupon from Pale Fire Capital, Groupon&rsquo;s largest shareholder, where he served as a Group CFO and later as a Partner. Prior to Pale Fire Capital, Jiri served as CFO at Alza.cz, one of the largest e-commerce players in Central and Eastern Europe, where he helped grow the business to an annual turnover of $2 billion. In addition, he spent 15 years at Danone/Nutricia, where he gained extensive experience in a variety of financial and commercial roles.&nbsp;Jiri has a proven track record from various Finance and Sales functions, where he managed multi-channel businesses in E-commerce, fast-moving consumer goods, and Pharmaceuticals. Jiri operated as Groupon's CFO from April 2023, moving into the COO role from September 2025, with a remit to double down on operational rigor and cross-functional transformation. As COO Jiri will oversight over: Finance, HR, Legal, Procurement, Payments &amp; Fraud and Financial Systems; as well as a number of cross-functional transformation initiatives. Peter Sulak Chief Sales Officer Peter Sulak is responsible for global sales strategy and execution across markets. Prior to leading the global sales organization, he served as General Manager for the USA West region while also overseeing international markets. He has held senior leadership roles across Europe and the Middle East, including serving as a COO and as an executive board member of a major retail bank. Peter specializes in business turnarounds and commercial transformations, with experience scaling both B2B and B2C organizations, strengthening sales d"
+    },
+    {
+      "url": "https://www.timesofindia.indiatimes.com/life-style/getting-ready-for-wedding-best-spas-in-delhi",
+      "ok": false,
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.tripadvisor.in/Attractions-g304551-Activities-c40-t149-Delhi.html",
+      "ok": false,
+      "error": "HTTP 403"
+    },
+    {
+      "url": "https://www.lbb.in/delhi/best-spas-in-delhi",
+      "ok": true,
+      "title": "Best Spas In Delhi-NCR Across Budgets | LBB",
+      "description": "Finding a good spa in Delhi is a task that most people fail at but we have curated a list of best spas in Delhi that will make you feel pampered. Read here to know more.",
+      "h1s": [
+        "Best Spas In Delhi: 9 Spas In Delhi That Are Perfect To Pamper Yourself At"
+      ],
+      "h2s": [
+        "9 Best Spas In Delhi That Need To Be On Your Radar",
+        "Sawadhee Traditional Thai Spa",
+        "Aheli Spa, The Roseate",
+        "Thalasso Luxury Wellness",
+        "Levo Spa &amp; Salon",
+        "The Imperial Hotel Spa",
+        "Wellness Club At Shangri-La",
+        "J Wellness Circle, Taj Palace",
+        "Tattva Wellness",
+        "Special Mention",
+        "Encalm Spa"
+      ],
+      "h3s": [
+        "Sawadhee Traditional Thai Spa, Vasant Kunj, New Delhi",
+        "Aheli Spa, New Delhi",
+        "Thalasso Luxury Wellness, Greater Kailash - 2, New Delhi",
+        "Levo Spa &amp; Salon, Golf Course Road, Gurgaon",
+        "The Imperial, Connaught Place, New Delhi",
+        "Wellness Club, Connaught Place, New Delhi",
+        "J Wellness Circle - Taj Palace, Chanakyapuri, New Delhi",
+        "Tattva Wellness - Hyatt Centric, Janakpuri, New Delhi",
+        "Encalm Spa, IGI Airport, New Delhi"
+      ],
+      "wordCount": 685,
+      "text": "Best Spas In Delhi-NCR Across Budgets | LBB Similar Guides Salons &amp; Spas Best Spas In Delhi: 9 Spas In Delhi That Are Perfect To Pamper Yourself At By Yukti 4672 Interested | 18K Views Living in Delhi means one thing for sure — you constantly need time and space to help reduce stress, relaxing and rejuvenating. Sure, going for trips or a staycation can be&nbsp; an&nbsp; answer, but it's not always easy to do that. Sometimes you need a shorter and equally refreshing solution, and that's where spas come in. A spa session is beneficial not just for your physical health, but also for your mental health. How, you ask? A good spa treatment aids in the release of&nbsp;endorphins, serotonin, and dopamine, all the chemicals responsible for our&nbsp;relaxation, happiness, and well-being. When it comes to physical benefits, a spa treatment can help improve circulation, relieve muscle tension, and also promote better sleep. That being said, finding a good spa in Delhi is no less than a nightmare (IYKYK). So, if you have ever been in a state where you believe that only a road roller moving on your body can get rid of all your body ache or wished that if anyone had your voodoo doll, they could massage it a little or just want to feel pampered? Then this list is going to become your favourite list. Here are 8 spas in Delhi that you can check out for all things mentioned above. Overview 1 . Sawadhee Traditional Thai Spa 2 . Aheli Spa, The Roseate 3 . Thalasso Luxury Wellness 4 . Levo Spa &amp; Salon 5 . The Imperial Hotel Spa 6 . Wellness Club At Shangri-La 7 . J Wellness Circle, Taj Palace 8 . Tattva Wellness 9 . Encalm Spa 9 Best Spas In Delhi That Need To Be On Your Radar Sawadhee Traditional Thai Spa Sawadhee Traditional Thai Spa, Vasant Kunj, New Delhi See On Map BOOK HERE Nestled in Vasant Kunj, Sawadhee Traditional Thai Spa is a local favourite that provides quality spa treatments at affordable prices. The ambience of the spa is serene, so you're in for a relaxing experience from the get-go. The spa therapists here are known to listen and adhere to any health issues or cautions expressed by clients. They also have membership plans valid for six months to twelve months and a jacuzzi, so you can go all out when treating yourself. Google Rating: 4.5/5 Price: Treatments start at INR 1,600 Timings: 10: 30 AM to 10:00 PM Social Media: @sawadhee_spa Contact: +9111 40576340, +9111 40576341 , +91 8750023456 Aheli Spa, The Roseate Aheli Spa, New Delhi See On Map BOOK HERE If you're someone who needs a bespoke treatment that fits your body needs, then you'll love Aheli. Apart from having a rich menu of usual treatments including body scrubs, wraps, muscle tension relief, Ayurvedic therapy and more, they also have a 'Bespoke Retreats' section in their menu that has treatments essentially made for detoxifying, renewing, restoring and reviving. They also have a hammam for you to live your Turkish vacation dreams.&nbsp; Google Rating: 4.5/5 Price: Treatments start at INR 2,500 Timings: 9:00 AM to 10:00 PM Social Media: @theroseate Contact: &nbsp;+9111 33552211, +91 9773986654 Pro-Tip: They also have salon services available from 11:00 AM to 08:00 PM with pricing starting at just INR 400. Thalasso Luxury Wellness Thalasso Luxury Wellness, Greater Kailash - 2, New Delhi See On Map Call (+919958706222) Thalasso Luxury Wellness is a perfect escape for you if you want to leave the stress of your hectic life behind. Located in three prime locations in South Delhi (GK II, Vasant Vihar, Defence Colony), they specialise in using seawater and marine elements. Each therapy room is crafted from natural sandstone to replicate the tranquillity of a stone cave, and there's the sound of falling water in every room to give you the best possible ambience for a spa treatment.&nbsp; Google Rating: 4.9/5 Price: Treatments start at INR 2,799 Timings: 11:00 AM to 11:00 PM Social Media: @thethalassospa Contact: GKII - +91 9958706222, Vasant Vihar - +91 7428235313, Defen"
+    },
+    {
+      "url": "https://www.cntraveller.in/discover/best-spas-in-delhi-for-a-rejuvenating-experience/",
+      "ok": false,
+      "error": "HTTP 404"
+    },
+    {
+      "url": "https://www.justdial.com/Delhi/Spas",
+      "ok": false,
+      "error": "HTTP 403"
+    },
+    {
+      "url": "https://blog.urbancompany.com/best-spas-in-delhi/",
+      "ok": true,
+      "title": "Urban Company - Get expert professional services at home",
+      "description": "Urban Company is your one-stop destination for expert local services. Get dozens of trusted professionals near you to take care of all your home and beauty needs",
+      "h1s": [],
+      "h2s": [
+        "Checkout Our Latest Blogs",
+        "Checkout Our Other Blogs",
+        "Other Categories"
+      ],
+      "h3s": [],
+      "wordCount": 312,
+      "text": "Urban Company - Get expert professional services at home UC Book Services Beauty Happy Homes Interiors Wellness Lifestyle UC Impact Native Water Purifiers Checkout Our Latest Blogs homePage Does RO Water Cause Mineral Deficiency? Here&#x27;s What the Science Actually Says homePage Designing Native (Part 4) What&#x27;s ahead homePage Designing Native (Part 3) Now it needed a team Beauty Happy Homes Interiors Wellness Lifestyle Uc Impact Native Water Purifiers Homecare homePage Why are TDS controllers harmful? homePage Designing Native (Part 1) homePage What is an RO Water Purifier? homePage Skin Savior: The Power Of Shea Butter For Radiant Beauty! homePage The Ultimate Guide To Oil Massage For Your Healthy Hair homePage The Art Of Blow Drying: A Step-By-Step Guide To Style Your Hair homePage How To Prevent Split Ends: Easy Steps To Great Hair homePage Unlocking The Beauty And Benefits Of Henna For Hair homePage How To Elevate Your Bedroom Walls With Aesthetically Pleasing Design Elements homePage What Is A Charcoal Mask And What Are Its Benefits? homePage Designing Native (Part 2) Sketches to launch homePage The 2-Year Filter Promise: What It Actually Means (and How It Actually Works) Checkout Our Other Blogs homePage Hair Colours For Men: 10 Trending Colours For 2024 homePage Short Beard Ideas For Men: Trending Short Beards For 2024 homePage Fade Haircut Ideas For Men: Trending Fade Haircut Styles For 2024 homePage A Comprehensive Guide To Different Door Lock Types homePage The Art Of Nail Shaping – A Detailed Guide To Filing Your Nails homePage Debunking The Myths Of Permanent Hair Straightening homePage Body Polishing – Everything You Need To Know! homePage Nail Art Techniques: Classic Vs Trending Nail Styles, Which One’S Best For You homePage Top 8 Benefits Of Rica Wax Hair Removal homePage What Is Mud Therapy And What Are Its Benefits? Other Categories UC Impact Home Care Lifestyle Beauty Happy Homes Wellness Native Water Purifiers"
+    }
+  ],
+  "plan": {
+    "overview": "This content plan focuses on establishing authority and comprehensive coverage for 'spa in Delhi' related searches. We aim to capture various user intents, from discovery and comparison to specific service inquiries and educational content. The strategy includes in-depth guides, curated lists, and localized content to outrank competitors who often provide superficial or deal-focused pages.",
+    "site_structure": [
+      {
+        "section": "Homepage",
+        "purpose": "Primary entry point, showcasing top services and USPs, linking to key categories.",
+        "pages": [
+          "index"
+        ]
+      },
+      {
+        "section": "Best Spas",
+        "purpose": "Curated lists and detailed reviews of top spa establishments in Delhi.",
+        "pages": [
+          "best-spas-delhi",
+          "luxury-spas-delhi-ncr"
+        ]
+      },
+      {
+        "section": "Spa Services",
+        "purpose": "Information hub for various spa treatments, their benefits, and pricing.",
+        "pages": [
+          "body-massage-delhi-price",
+          "ayurvedic-spa-delhi",
+          "spa-treatments-menu-delhi",
+          "rejuvenation-spa-delhi"
+        ]
+      },
+      {
+        "section": "Special Occasions",
+        "purpose": "Guides and recommendations for specific spa experiences.",
+        "pages": [
+          "couples-spa-deals-delhi",
+          "pre-wedding-spa-packages-delhi"
+        ]
+      },
+      {
+        "section": "How-To Guides",
+        "purpose": "Educational content to assist users in making informed decisions.",
+        "pages": [
+          "how-to-choose-good-spa-delhi"
+        ]
+      },
+      {
+        "section": "Local Pages",
+        "purpose": "Hyper-local content to capture 'near me' searches, integrating with Google My Business.",
+        "pages": [
+          "spa-near-me-delhi-connaught-place",
+          "spa-near-me-delhi-saket",
+          "spa-near-me-delhi-gurgaon"
+        ]
+      }
+    ],
+    "content_pieces": [
+      {
+        "title": "The Ultimate Guide to the Best Spas in Delhi for Relaxation & Rejuvenation",
+        "slug": "best-spas-delhi",
+        "target_keyword": "best spa in delhi",
+        "secondary_keywords": [
+          "top spas delhi",
+          "luxury spas delhi",
+          "relaxing massage delhi",
+          "spa retreat delhi"
+        ],
+        "intent": "Informational/Discovery",
+        "content_type": "Long-form Guide/Listicle",
+        "suggested_word_count": 2000,
+        "outline": [
+          "Introduction: Why Delhi is a Spa Paradise",
+          "Criteria for Choosing the Best Spa (Beyond Just Reviews)",
+          "Top 10 Best Spas in Delhi for Overall Experience",
+          "Budget-Friendly Gems: Quality Spas That Won't Break the Bank",
+          "Luxury Spa Experiences: Indulge in Opulence",
+          "Specialty Spas: Ayurvedic, Thai, and More",
+          "What to Expect During Your Spa Visit",
+          "Tips for Maximizing Your Spa Experience",
+          "FAQs about Spas in Delhi",
+          "Conclusion: Your Path to Ultimate Relaxation in Delhi"
+        ],
+        "meta_title": "Best Spa in Delhi: Top Picks for Ultimate Relaxation & Rejuvenation",
+        "meta_description": "Discover the best spa in Delhi with our ultimate guide. Find top-rated luxury and budget-friendly options for massages, wellness, and pure relaxation.",
+        "internal_links": [
+          "how-to-choose-good-spa-delhi",
+          "luxury-spas-delhi-ncr",
+          "ayurvedic-spa-delhi",
+          "spa-treatments-menu-delhi"
+        ],
+        "why_this_beats_competitors": "Competitors offer basic lists. This article goes deeper with detailed criteria for selection, varied categories (luxury, budget, specialty), and practical tips, positioning itself as the definitive resource rather than just a directory. It focuses on the user's need for guidance, not just a list of names."
+      },
+      {
+        "title": "Find Your Perfect Spa: Top Spots & Deals 'Near Me' in Delhi",
+        "slug": "spa-near-me-delhi",
+        "target_keyword": "spa near me delhi",
+        "secondary_keywords": [
+          "local spas delhi",
+          "spa deals delhi",
+          "nearest spa delhi",
+          "body massage near me delhi"
+        ],
+        "intent": "Local/Transactional",
+        "content_type": "Local Guide/Listing Page (Hub)",
+        "suggested_word_count": 1500,
+        "outline": [
+          "Introduction: Instant Relaxation - Spas 'Near You' in Delhi",
+          "How to Use Our 'Spa Near Me' Finder",
+          "Top Spas by Popular Delhi Neighborhoods (e.g., Saket, Connaught Place, Vasant Kunj)",
+          "Exclusive Offers & Deals for Spas in Delhi",
+          "Types of Treatments Available at Local Spas",
+          "Things to Consider When Booking a 'Spa Near Me'",
+          "Customer Reviews & Ratings for Local Spas",
+          "Featured Spa: [Our Business if applicable, or a highly-rated local one]",
+          "Directions and Contact Information for Featured Spas",
+          "FAQs about 'Spa Near Me' in Delhi"
+        ],
+        "meta_title": "Spa Near Me Delhi: Find Top Local Spas & Deals Instantly",
+        "meta_description": "Looking for a 'spa near me' in Delhi? Discover top-rated local spas, exclusive deals, and directions for quick relaxation in your neighborhood.",
+        "internal_links": [
+          "spa-near-me-delhi-connaught-place",
+          "spa-near-me-delhi-saket",
+          "couples-spa-deals-delhi"
+        ],
+        "why_this_beats_competitors": "Competitors like Nearbuy and Groupon are deal aggregators. This page will be a strategic hub, offering not just deals, but actual location-based guidance, neighborhood breakdowns, and detailed listings, empowering users while integrating with local SEO best practices. It anticipates the 'near me' query by helping users find the best option for *them* rather than just a discount."
+      },
+      {
+        "title": "Unforgettable Romance: Best Couples Spa Deals in Delhi",
+        "slug": "couples-spa-deals-delhi",
+        "target_keyword": "couples spa deals delhi",
+        "secondary_keywords": [
+          "couples massage delhi",
+          "romantic spa experience delhi",
+          "spa packages for couples delhi",
+          "date ideas delhi spa"
+        ],
+        "intent": "Transactional/Informational",
+        "content_type": "Curated List/Guide",
+        "suggested_word_count": 1200,
+        "outline": [
+          "Introduction: Rekindle Romance with Couples Spa Experiences in Delhi",
+          "Why a Couples Spa is the Perfect Date Idea",
+          "Top Spa Centers Offering Couples Deals in Delhi",
+          "What to Expect from a Couples Spa Package",
+          "Types of Couples Treatments: Massages, Facials, Baths",
+          "Tips for Choosing the Best Couples Spa Deal",
+          "Budgeting for Your Couples Spa Day: What to Look For",
+          "Add-ons and Enhancements for a Romantic Experience (e.g., champagne, private suites)",
+          "FAQs About Couples Spa in Delhi",
+          "Book Your Romantic Escape: Featured Deals"
+        ],
+        "meta_title": "Couples Spa Deals Delhi: Romantic Packages for Two",
+        "meta_description": "Indulge in romance with the best couples spa deals in Delhi. Discover packages for massages, treatments, and unforgettable shared relaxation.",
+        "internal_links": [
+          "best-spas-delhi",
+          "pre-wedding-spa-packages-delhi",
+          "body-massage-delhi-price"
+        ],
+        "why_this_beats_competitors": "Groupon only lists deals without context. This page provides a comprehensive guide specific to couples, emphasizing the romantic aspect, types of experiences, and how to choose the 'best' deal beyond just price, focusing on the overall experience and value."
+      },
+      {
+        "title": "Body Massage in Delhi: Understanding Prices & Finding the Best Value",
+        "slug": "body-massage-delhi-price",
+        "target_keyword": "body massage in delhi price",
+        "secondary_keywords": [
+          "massage rates delhi",
+          "full body massage cost delhi",
+          "thai massage price delhi",
+          "deep tissue massage price delhi"
+        ],
+        "intent": "Informational/Transactional",
+        "content_type": "Pricing Guide/Comparison",
+        "suggested_word_count": 1300,
+        "outline": [
+          "Introduction: Navigating Body Massage Prices in Delhi",
+          "Factors Influencing Body Massage Prices (Type, Duration, Location, Spa Tier)",
+          "Average Body Massage Prices in Delhi: A Comprehensive Breakdown",
+          "Price Comparison: Luxury Spas vs. Mid-Range vs. Budget Options",
+          "Popular Massage Types and Their Corresponding Price Ranges (e.g., Swedish, Deep Tissue, Thai, Ayurvedic)",
+          "What's Included in the Price? (Amenities, Therapist Experience)",
+          "How to Find the Best Deals & Value for Money",
+          "Warning Signs: What to Avoid When Seeking Low Prices",
+          "Tips for Saving on Your Body Massage",
+          "FAQs about Body Massage Cost in Delhi"
+        ],
+        "meta_title": "Body Massage in Delhi Price: Guide to Costs & Best Value",
+        "meta_description": "Understand body massage in Delhi prices. Our guide covers average costs, factors influencing rates, and how to find the best value for your budget.",
+        "internal_links": [
+          "spa-treatments-menu-delhi",
+          "best-spas-delhi",
+          "how-to-choose-good-spa-delhi",
+          "ayurvedic-spa-delhi"
+        ],
+        "why_this_beats_competitors": "Competitors rarely offer detailed pricing guides. This content piece fills that gap by providing transparency on costs, breaking down factors, comparing different tiers, and offering actionable advice on getting value, rather than just listing treatments with vague price ranges."
+      },
+      {
+        "title": "Luxury Spa Delhi NCR: Indulge in Opulence & Premium Wellness",
+        "slug": "luxury-spa-delhi-ncr",
+        "target_keyword": "luxury spa delhi ncr",
+        "secondary_keywords": [
+          "5 star spa delhi",
+          "high end spa delhi",
+          "premium spa experiences delhi",
+          "best luxury wellness delhi"
+        ],
+        "intent": "Informational/Discovery",
+        "content_type": "Curated List/Review",
+        "suggested_word_count": 1800,
+        "outline": [
+          "Introduction: The Epitome of Relaxation - Luxury Spas in Delhi NCR",
+          "What Defines a Truly Luxury Spa Experience?",
+          "Top 7 Most Exclusive Luxury Spas in Delhi NCR (with detailed reviews)",
+          "Signature Treatments & Unique Offerings at High-End Spas",
+          "The Ambiance: Design, Facilities, and Service Excellence",
+          "Guest Experience: From Arrival to Departure",
+          "Why Invest in a Luxury Spa Day?",
+          "Combining Luxury Spa with Other Experiences (e.g., fine dining)",
+          "Booking Tips for an Unforgettable Luxury Spa Visit",
+          "FAQs about Luxury Spas"
+        ],
+        "meta_title": "Luxury Spa Delhi NCR: Indulge in Opulent Wellness Experiences",
+        "meta_description": "Discover the ultimate luxury spa in Delhi NCR. Explore exclusive treatments, premium facilities, and 5-star experiences for unparalleled relaxation.",
+        "internal_links": [
+          "best-spas-delhi",
+          "rejuvenation-spa-delhi",
+          "pre-wedding-spa-packages-delhi"
+        ],
+        "why_this_beats_competitors": "While LBB mentions some luxury spas, this article would dedicate itself entirely to the luxury segment, providing far more detail on what makes these spas stand out, their signature treatments, and the overall premium experience, going beyond a simple listing to truly inform the discerning customer."
+      },
+      {
+        "title": "Ayurvedic Spa Delhi: Traditional Healing & Natural Rejuvenation",
+        "slug": "ayurvedic-spa-delhi",
+        "target_keyword": "ayurvedic spa delhi",
+        "secondary_keywords": [
+          "best ayurvedic massage delhi",
+          "panchakarma delhi",
+          "traditional indian spa delhi",
+          "natural spa treatments delhi"
+        ],
+        "intent": "Informational/Discovery",
+        "content_type": "Guide/Listicle",
+        "suggested_word_count": 1400,
+        "outline": [
+          "Introduction: The Ancient Wisdom of Ayurvedic Spas in Delhi",
+          "What is Ayurveda and How Does It Benefit You?",
+          "Key Principles of Ayurvedic Treatments",
+          "Top Ayurvedic Spas in Delhi for Authentic Experiences",
+          "Popular Ayurvedic Treatments: Abhyanga, Shirodhara, Panchakarma",
+          "Choosing the Right Ayurvedic Spa & Practitioner",
+          "What to Expect During Your Ayurvedic Session",
+          "Benefits of Regular Ayurvedic Spa Therapy",
+          "Preparing for Your Ayurvedic Spa Visit",
+          "FAQs about Ayurvedic Spas in Delhi"
+        ],
+        "meta_title": "Ayurvedic Spa Delhi: Traditional Healing & Rejuvenation",
+        "meta_description": "Explore the best Ayurvedic spa in Delhi for authentic traditional healing. Discover treatments like Abhyanga & Shirodhara for natural rejuvenation.",
+        "internal_links": [
+          "spa-treatments-menu-delhi",
+          "rejuvenation-spa-delhi",
+          "body-massage-delhi-price"
+        ],
+        "why_this_beats_competitors": "Groupon has a deal page, but no informative content. This piece offers a deep dive into Ayurveda itself, explaining its philosophy, popular treatments, and how to choose an authentic spa, serving an educational need before a transactional one. It educates the user, making them more informed to choose a spa."
+      },
+      {
+        "title": "Spa Treatments Menu Delhi: Your Comprehensive Guide to Services",
+        "slug": "spa-treatments-menu-delhi",
+        "target_keyword": "spa treatments menu delhi",
+        "secondary_keywords": [
+          "spa services delhi",
+          "types of spa treatments delhi",
+          "massage menu delhi",
+          "facial treatments delhi"
+        ],
+        "intent": "Informational/Discovery",
+        "content_type": "Comprehensive Guide",
+        "suggested_word_count": 1600,
+        "outline": [
+          "Introduction: Decoding the Delhi Spa Treatments Menu",
+          "Popular Massage Therapies and Their Benefits (Swedish, Deep Tissue, Thai, Balinese)",
+          "Ayurvedic Treatments: A Deep Dive (Abhyanga, Udwartana, Potli)",
+          "Facials & Skincare Treatments for Every Concern",
+          "Body Wraps & Scrubs: Detoxification and Exfoliation",
+          "Hydrotherapy & Bathing Rituals",
+          "Specialty Treatments: Reflexology, Hot Stone, Cupping",
+          "Pre-Nuptial & Couples Packages (Brief Mention & Link)",
+          "Choosing the Right Treatment for Your Needs",
+          "FAQs about Spa Treatment Menus"
+        ],
+        "meta_title": "Spa Treatments Menu Delhi: Guide to Services & Benefits",
+        "meta_description": "Explore a comprehensive spa treatments menu in Delhi. Discover massages, facials, body wraps, and traditional therapies with their unique benefits.",
+        "internal_links": [
+          "body-massage-delhi-price",
+          "ayurvedic-spa-delhi",
+          "couples-spa-deals-delhi",
+          "rejuvenation-spa-delhi"
+        ],
+        "why_this_beats_competitors": "Competitors mention services briefly. This article serves as an encyclopedia of spa treatments available in Delhi, explaining each type, its benefits, and what to expect, making it an invaluable resource for users trying to understand their options before booking."
+      },
+      {
+        "title": "Rejuvenation Spa Delhi: Restore Your Mind, Body & Soul",
+        "slug": "rejuvenation-spa-delhi",
+        "target_keyword": "rejuvenation spa delhi",
+        "secondary_keywords": [
+          "wellness spa delhi",
+          "stress relief spa delhi",
+          "detox spa delhi",
+          "holistic spa delhi"
+        ],
+        "intent": "Informational/Discovery",
+        "content_type": "Guide/Concepts",
+        "suggested_word_count": 1200,
+        "outline": [
+          "Introduction: Finding Your Oasis at a Rejuvenation Spa in Delhi",
+          "The Concept of Rejuvenation: Beyond Just a Massage",
+          "What Services Define a True Rejuvenation Spa?",
+          "Top Spas in Delhi Focused on Holistic Well-being",
+          "Benefits of Regular Rejuvenation Therapy (Physical, Mental, Emotional)",
+          "Tailoring Your Rejuvenation Journey: Custom Packages",
+          "Integrating Wellness into Your Lifestyle Post-Spa",
+          "Indicators of a High-Quality Rejuvenation Center",
+          "FAQs about Rejuvenation Spas",
+          "Embrace Renewal: Your Path to a Healthier You"
+        ],
+        "meta_title": "Rejuvenation Spa Delhi: Restore Mind, Body & Soul",
+        "meta_description": "Discover top rejuvenation spa experiences in Delhi. Find holistic wellness centers focused on detox, stress relief, and complete mental & physical renewal.",
+        "internal_links": [
+          "best-spas-delhi",
+          "ayurvedic-spa-delhi",
+          "spa-treatments-menu-delhi",
+          "luxury-spa-delhi-ncr"
+        ],
+        "why_this_beats_competitors": "This focuses on the *concept* of rejuvenation beyond just specific treatments, appealing to a user seeking holistic wellness. It goes further than simply listing spas by explaining the philosophy and benefits, providing a deeper understanding and value for the user."
+      },
+      {
+        "title": "Pre-Wedding Spa Packages Delhi: Pamper & Prepare for Your Big Day",
+        "slug": "pre-wedding-spa-packages-delhi",
+        "target_keyword": "pre wedding spa packages delhi",
+        "secondary_keywords": [
+          "bridal spa delhi",
+          "groom spa delhi",
+          "bachelorette spa party delhi",
+          "wedding wellness delhi"
+        ],
+        "intent": "Transactional/Informational",
+        "content_type": "Curated List/Guide",
+        "suggested_word_count": 1100,
+        "outline": [
+          "Introduction: Glow from Head to Toe with Pre-Wedding Spa Packages in Delhi",
+          "Why a Pre-Wedding Spa is Essential for Brides & Grooms",
+          "Comprehensive Bridal Spa Packages: What to Look For",
+          "Grooming for Grooms: Dedicated Spa Treatments",
+          "Couples Pre-Wedding Spa Experiences: Relax Together",
+          "Planning Your Pre-Wedding Spa Journey (Timelines & Considerations)",
+          "Top Spas in Delhi Offering Special Wedding Packages",
+          "Customization and Group Bookings (Bachelorette Spa Parties)",
+          "Tips for Maximizing Your Pre-Wedding Pampering",
+          "FAQs about Pre-Wedding Spas"
+        ],
+        "meta_title": "Pre-Wedding Spa Packages Delhi: Pamper for Your Big Day",
+        "meta_description": "Discover the best pre-wedding spa packages in Delhi for brides, grooms, and couples. Get pampered and perfectly prepared for your special day.",
+        "internal_links": [
+          "couples-spa-deals-delhi",
+          "spa-treatments-menu-delhi",
+          "best-spas-delhi",
+          "body-massage-delhi-price"
+        ],
+        "why_this_beats_competitors": "Groupon only has generic deal pages. This content is highly niche-specific, addressing a unique life event with tailored advice, recommended packages, and crucial planning tips that a general spa list would overlook. It’s a targeted solution for a specific customer need."
+      },
+      {
+        "title": "How to Choose a Good Spa in Delhi: Expert Tips & Essential Criteria",
+        "slug": "how-to-choose-good-spa-delhi",
+        "target_keyword": "how to choose a good spa in delhi",
+        "secondary_keywords": [
+          "spa selection guide delhi",
+          "what to look for in a spa delhi",
+          "spa etiquette delhi",
+          "finding reliable spa delhi"
+        ],
+        "intent": "Informational",
+        "content_type": "Expert Guide",
+        "suggested_word_count": 1000,
+        "outline": [
+          "Introduction: Your Guide to Selecting the Perfect Spa in Delhi",
+          "Understanding Your Spa Needs: What Are You Looking For?",
+          "Key Criteria for Choosing a Good Spa (Hygiene, Ambiance, Staff, Services)",
+          "Checking Credentials & Certifications of Therapists",
+          "Reading Reviews & Testimonials: What to Trust",
+          "Pricing & Value: Balancing Cost with Quality",
+          "Location & Accessibility: Convenience Matters",
+          "Red Flags: What to Avoid When Choosing a Spa",
+          "Questions to Ask Before Booking Your Appointment",
+          "Conclusion: Make an Informed Spa Choice"
+        ],
+        "meta_title": "How to Choose a Good Spa in Delhi: Expert Selection Guide",
+        "meta_description": "Learn how to choose a good spa in Delhi with our expert guide. Discover key criteria, red flags, and tips for finding a reputable and relaxing spa.",
+        "internal_links": [
+          "best-spas-delhi",
+          "spa-near-me-delhi",
+          "luxury-spa-delhi-ncr",
+          "ayurvedic-spa-delhi"
+        ],
+        "why_this_beats_competitors": "Competitors offer lists but don't teach users *how* to evaluate. This actionable guide empowers users with knowledge, building trust and positioning our platform as an authority, rather than just a commercial listing site."
+      },
+      {
+        "title": "Somatic Massage vs. Deep Tissue Therapy: Which is Best for You?",
+        "slug": "somatic-massage-vs-deep-tissue-delhi",
+        "target_keyword": "somatic massage vs deep tissue delhi",
+        "secondary_keywords": [
+          "somatic bodywork delhi",
+          "deep tissue massage delhi",
+          "chronic stress massage delhi",
+          "muscular tension therapy delhi"
+        ],
+        "intent": "Commercial",
+        "content_type": "Comparison Guide",
+        "suggested_word_count": 1200,
+        "outline": [
+          "Introduction: Navigating Muscle Pain and Burnout",
+          "What is Deep Tissue Therapy?",
+          "What is Somatic Bodywork?",
+          "Key Differences: Mechanical Friction vs. Neural Quietude",
+          "How to Choose: Which Treatment is Best For You?",
+          "Booking Your Custom Session at Our Delhi Enclaves"
+        ],
+        "meta_title": "Somatic Massage vs Deep Tissue: Which Is Best? | Delhi Spa",
+        "meta_description": "Struggling with muscle pain or sensory burnout? Read our expert comparison between Somatic Massage and Deep Tissue Therapy to find your ideal treatment.",
+        "internal_links": [
+          "best-spas-delhi",
+          "rejuvenation-spa-delhi",
+          "spa-treatments-menu-delhi"
+        ],
+        "why_this_beats_competitors": "Most competitor sites describe therapies in isolation. This side-by-side comparison focuses on structural vs. nervous system needs, providing high-intent searchers with the precise clarity needed to book a targeted session."
+      }
+    ],
+    "gaps_and_opportunities": [
+      "Lack of detailed, educational content on competitor sites; most are listicles or deal aggregators.",
+      "Opportunity for more localized content (e.g., 'Spa in Saket,' 'Spa in Connaught Place') beyond just 'near me'.",
+      "Missing in-depth pricing guides for specific treatments, not just general spa categories.",
+      "No comprehensive 'what to expect' guides for first-time spa visitors or specific treatment types.",
+      "Lack of content specifically addressing common spa concerns or misconceptions.",
+      "Opportunity to create 'Top X Spas for Y' categories (e.g., 'Best Budget Spas,' 'Best Spas for Deep Tissue')."
+    ],
+    "quick_wins": [
+      "Create hyper-local 'spa near me' landing pages for major Delhi neighborhoods (e.g., Connaught Place, Saket, Vasant Kunj).",
+      "Develop a detailed 'body massage in delhi price' comparison table or interactive tool.",
+      "Publish the 'How to Choose a Good Spa in Delhi' guide, as it's a high-intent, underserved informational query.",
+      "Optimize existing service pages (if any) with keyword variations like 'rejuvenation spa delhi' and specific spa treatments from the 'spa treatments menu delhi' keyword.",
+      "Feature unique aspects of local culture in content, such as specific traditional Indian spa therapies, which can differentiate from generic spa listings."
+    ]
+  }
+}

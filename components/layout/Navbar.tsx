@@ -27,6 +27,7 @@ export default function Navbar() {
     { name: 'Wellness', href: '/wellness' },
     { name: 'Gallery', href: '/gallery' },
     { name: 'Testimonials', href: '/testimonials' },
+    { name: 'Insights', href: '/articles' },
     { name: 'Contact', href: '/contact' },
   ];
 

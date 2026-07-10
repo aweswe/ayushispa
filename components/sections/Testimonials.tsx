@@ -2,43 +2,9 @@
 
 import { useState, useEffect } from 'react';
 import Image from 'next/image';
-
-interface Testimonial {
-  id: number;
-  quote: string;
-  author: string;
-  role: string;
-  rating: number;
-  image: string;
-}
+import { TESTIMONIALS } from '@/data/testimonials';
 
 export default function Testimonials() {
-  const list: Testimonial[] = [
-    {
-      id: 1,
-      quote: '“The absolute silence is what strikes you first. At Luxury Delhi Spa, wellness is not just a treatment—it is a complete restoration of the soul. The private bath suites are an architectural revelation.”',
-      author: 'Sarah Jenkins',
-      role: 'Google Review · Verified Guest',
-      rating: 5,
-      image: 'https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=400&auto=format&fit=crop',
-    },
-    {
-      id: 2,
-      quote: '“A masterclass in editorial minimalism and premium hospitality. The therapists have an intuitive understanding of physical and somatic fatigue. Unquestionably world-class.”',
-      author: 'Julian Vance',
-      role: 'Google Review · Verified Guest',
-      rating: 5,
-      image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=400&auto=format&fit=crop',
-    },
-    {
-      id: 3,
-      quote: '“The botanical massage oils are incredible, formulated with raw rosehip and frankincense. It feels closer to walking through an ancient rain-washed forest than a spa.”',
-      author: 'Elena Rostova',
-      role: 'Google Review · Verified Guest',
-      rating: 5,
-      image: 'https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=400&auto=format&fit=crop',
-    },
-  ];
 
   const [activeIndex, setActiveIndex] = useState(0);
   const [animating, setAnimating] = useState(false);
@@ -54,7 +20,7 @@ export default function Testimonials() {
   const handleNext = () => {
     setAnimating(true);
     setTimeout(() => {
-      setActiveIndex((prev) => (prev + 1) % list.length);
+      setActiveIndex((prev) => (prev + 1) % TESTIMONIALS.length);
       setAnimating(false);
     }, 500); // sync with CSS fade transition
   };
@@ -83,22 +49,22 @@ export default function Testimonials() {
           <div className={`testimonial-content ${animating ? 'fade-out' : 'fade-in'}`}>
             {/* Google Rating Stars */}
             <div className="rating-stars" aria-label="5 out of 5 stars">
-              {Array.from({ length: list[activeIndex].rating }).map((_, i) => (
+              {Array.from({ length: TESTIMONIALS[activeIndex].rating }).map((_, i) => (
                 <span key={i} className="star">★</span>
               ))}
             </div>
 
             {/* Quote */}
             <blockquote className="testimonial-quote">
-              {list[activeIndex].quote}
+              {TESTIMONIALS[activeIndex].quote}
             </blockquote>
 
             {/* Author Meta */}
             <div className="testimonial-author-block">
               <div className="author-portrait-wrapper">
                 <Image
-                  src={list[activeIndex].image}
-                  alt={list[activeIndex].author}
+                  src={TESTIMONIALS[activeIndex].image}
+                  alt={TESTIMONIALS[activeIndex].author}
                   fill
                   sizes="120px"
                   className="author-portrait"
@@ -106,15 +72,15 @@ export default function Testimonials() {
                 />
               </div>
               <div className="author-details">
-                <cite className="author-name">{list[activeIndex].author}</cite>
-                <span className="author-role">{list[activeIndex].role}</span>
+                <cite className="author-name">{TESTIMONIALS[activeIndex].author}</cite>
+                <span className="author-role">{TESTIMONIALS[activeIndex].role}</span>
               </div>
             </div>
           </div>
 
           {/* Dots Navigation */}
           <div className="slider-dots">
-            {list.map((_, idx) => (
+            {TESTIMONIALS.map((_, idx) => (
               <button
                 key={idx}
                 className={`slider-dot ${idx === activeIndex ? 'active' : ''}`}
