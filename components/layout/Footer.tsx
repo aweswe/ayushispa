@@ -121,8 +121,8 @@ export default function Footer() {
             © {currentYear} Luxury Delhi Spa. All rights reserved.
           </p>
           <div className="footer-meta-links">
-            <a href="#booking">Privacy Policy</a>
-            <a href="#booking">Terms of Service</a>
+            <Link href="/privacy">Privacy Policy</Link>
+            <Link href="/terms">Terms & Conditions</Link>
           </div>
         </div>
       </div>
